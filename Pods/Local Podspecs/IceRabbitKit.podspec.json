@@ -1,0 +1,23 @@
+{
+  "name": "IceRabbitKit",
+  "version": "0.1.0",
+  "summary": "MHM develop kit",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NirvanAcN/IceRabbitKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NirvanAcN": "mahaomeng@163.com"
+  },
+  "source": {
+    "git": "https://github.com/NirvanAcN/IceRabbitKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IceRabbitKit/Classes/**/*",
+  "frameworks": "UIKit"
+}
