@@ -9,7 +9,19 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+@class MHMCutMaskView;
+
+@protocol MHMCutMaskViewDelegate <NSObject>
+
+@optional
+-(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView from:(CGPoint)startPoint to:(CGPoint)endPoint;
+-(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView originFrame:(CGRect)oFrame newFrame:(CGRect)nFrame;
+
+@end
+
 @interface MHMCutMaskView : UIView
+
+@property (weak) id<MHMCutMaskViewDelegate> delegate;
 
 @end
 

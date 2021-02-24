@@ -1,6 +1,0 @@
-framework module IceRabbitKit {
-  umbrella header "IceRabbitKit-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) UIImage * cImage;
 @property (nonatomic, strong) UIImage * xImage;
 
+-(void)testAction;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -35,7 +35,7 @@
     }];
     
     NSLog(@"- %@ -", NSStringFromCGRect(self.view.frame));
-    _cutView.xImage = [UIImage imageNamed:@"IMG_8349.png"];
+    _cutView.xImage = [UIImage imageNamed:@"niu.jpg"];
     
 //    _imageView = [UIImageView new];
 //    _imageView.contentMode = UIViewContentModeScaleAspectFit;
@@ -51,6 +51,10 @@
     UIBarButtonItem * photosBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"相册" style:UIBarButtonItemStylePlain target:self action:@selector(onPhotoLibraryBarButtonClick:)];
     self.navigationItem.rightBarButtonItem = photosBarButtonItem;
     
+    UIBarButtonItem * cropBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"Crop" style:UIBarButtonItemStylePlain target:self action:@selector(onCropButtonClick:)];
+    UIBarButtonItem * redoBarButtonItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemRedo target:self action:@selector(onRedoButtonClick:)];
+
+    self.navigationItem.leftBarButtonItems = @[cropBarButtonItem, redoBarButtonItem];
 }
 
 -(void)test {
@@ -109,6 +113,17 @@
             [self showViewController:imagePickerController sender:nil];
         }
     }];
+}
+
+#pragma mark - crop action
+-(void)onCropButtonClick:(id)sender {
+    if (_cutView) {
+        [_cutView testAction];
+    }
+}
+
+-(void)onRedoButtonClick:(id)sender {
+    _cutView.xImage = [UIImage imageNamed:@"niu.jpg"];
 }
 
 @end

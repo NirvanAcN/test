@@ -8,6 +8,9 @@
 #import "MHMCutMaskView.h"
 
 @implementation MHMCutMaskView
+{
+    CGRect _lastFrame;
+}
 
 -(instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
@@ -35,13 +38,31 @@
         [path appendPath:longitudinalPath];
     }
     [UIColor.whiteColor setStroke];
-    path.lineWidth = 1.5;
+//    path.lineWidth = 1.5;
     [path stroke];
 }
 
 -(void)onPan:(UIPanGestureRecognizer *)panGestureRecognizer {
-    CGPoint c = [panGestureRecognizer locationInView:self];
-    self.frame = CGRectMake(self.frame.origin.x, self.frame.origin.y, c.x, c.y);
+    switch (panGestureRecognizer.state) {
+        case UIGestureRecognizerStateBegan:
+            _lastFrame = self.frame;
+            break;
+            
+        case UIGestureRecognizerStateChanged: {
+            CGPoint c = [panGestureRecognizer locationInView:self];
+            self.frame = CGRectMake(self.frame.origin.x, self.frame.origin.y, c.x, c.y);
+            break;
+        }
+            
+        case UIGestureRecognizerStateEnded:
+            if (self.delegate && [self.delegate respondsToSelector:@selector(cutMaskViewPanEnded:originFrame:newFrame:)]) {
+                [self.delegate cutMaskViewPanEnded:self originFrame:_lastFrame newFrame:self.frame];
+            }
+            
+        default:
+            break;
+    }
+
 }
 
 @end

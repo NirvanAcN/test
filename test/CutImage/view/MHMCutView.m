@@ -11,27 +11,34 @@
 @import Masonry;
 @import AVFoundation;
 
-@interface MHMCutView ()
+@interface MHMCutView () <MHMCutMaskViewDelegate>
 
 @property (nonatomic, strong) UIImageView * containImageView;
+
+@property (nonatomic, strong) MHMCutMaskView * maskView;
 
 @end
 
 static const CGFloat kDefaultInsetValue = 20;
 
 @implementation MHMCutView
+{
+    CGRect _windowsAnchor;
+}
 
 -(instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
         self.userInteractionEnabled = YES;
+        self.clipsToBounds = YES;
     }
     return self;
 }
 
-//- (void)layoutSubviews {
-//    self.containImageView.frame = (CGRect){CGPointZero ,self.frame.size};
-//}
+-(void)testAction {
+//    [self cropActionByWidth:0 andHeight:0];
+    self.maskView.frame = _windowsAnchor;
+}
 
 #pragma mark - UIImageView
 -(UIImageView *)containImageView {
@@ -91,6 +98,19 @@ static const CGFloat kDefaultInsetValue = 20;
     _containImageView.transform = CGAffineTransformMakeScale(0.5, 0.5);
 }
 
+#pragma mark - mask view
+-(MHMCutMaskView *)maskView {
+    if (!_maskView) {
+        _maskView = [MHMCutMaskView new];
+        [self addSubview:_maskView];
+        [self bringSubviewToFront:_maskView];
+        _maskView.backgroundColor = UIColor.orangeColor;
+        _maskView.delegate = self;
+        _maskView.alpha = 0.4;
+    }
+    return _maskView;
+}
+
 #pragma mark - xImage
 -(void)setXImage:(UIImage *)xImage {
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, 0), dispatch_get_main_queue(), ^{
@@ -98,11 +118,11 @@ static const CGFloat kDefaultInsetValue = 20;
         self.containImageView.image = xImage;
         self.containImageView.frame = [self calculateImageFrameByWindowSize:xImage.size];
         self.containImageView.center = [self convertPoint:self.center fromView:self.superview];
+        self->_windowsAnchor = self.containImageView.frame;
     });
 }
 
 -(CGRect)calculateImageFrameByWindowSize:(CGSize)windowSize {
-    [self layoutIfNeeded];
     CGSize selfSize = self.bounds.size;
     CGSize containSize = CGSizeMake(selfSize.width - 2 * kDefaultInsetValue, selfSize.height - 2 * kDefaultInsetValue); // 获取去除边界后的尺寸（最大展示尺寸）
     // 计算宽方向上的缩放比例
@@ -115,6 +135,35 @@ static const CGFloat kDefaultInsetValue = 20;
     result.size.width =  showedHeight > containSize.height ? containSize.height * imageMultiplie : containSize.width;
     result.size.height = showedHeight > containSize.height ? containSize.height : containSize.width / imageMultiplie;
     return result;
+}
+
+#pragma mark - crop action
+-(void)cropActionByWidth:(CGFloat)changedWidth andHeight:(CGFloat)changedHeight {
+    CGSize f2 = self.containImageView.frame.size;
+    CGRect maskOriginFrame = self.maskView.frame;
+
+    CGRect f1 = [self calculateImageFrameByWindowSize:(CGSize){f2.width - changedWidth, f2.height - changedHeight}];
+    f1.origin = self.containImageView.frame.origin;
+    
+    self.maskView.frame = f1;
+    self.maskView.center = [self convertPoint:self.center fromView:self.superview];
+    
+    CGFloat zoomScale = fabsl(changedWidth) > fabsl(changedHeight) ? self.maskView.frame.size.width / maskOriginFrame.size.width : self.maskView.frame.size.height / maskOriginFrame.size.height;
+
+    NSLog(@"%f", zoomScale);
+    
+//    CGAffineTransform lastTranform3D = CATransform3DGetAffineTransform(self.containImageView.transform3D);
+//    self.containImageView.transform = CGAffineTransformScale(lastTranform3D, zoomScale, zoomScale);
+    self.containImageView.transform = CGAffineTransformScale(self.containImageView.transform, zoomScale, zoomScale);
+    NSLog(@"%@ - %@", NSStringFromCGSize(self.maskView.frame.size), NSStringFromCGSize(self.containImageView.frame.size));
+    CGRect newFrame = self.containImageView.frame;
+    newFrame.origin = self.maskView.frame.origin;
+    self.containImageView.frame = newFrame;
+}
+
+#pragma mark - MHMCutMaskViewDelegate
+-(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView originFrame:(CGRect)oFrame newFrame:(CGRect)nFrame {
+    [self cropActionByWidth:CGRectGetWidth(oFrame) - CGRectGetWidth(nFrame) andHeight:CGRectGetHeight(oFrame) - CGRectGetHeight(nFrame)];
 }
 
 @end

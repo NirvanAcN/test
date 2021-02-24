@@ -8,7 +8,7 @@ target 'test' do
   # Pods for test
   pod 'YYText'
   pod 'Masonry'
-  pod 'IceRabbitKit', :path => '/Users/mahaomeng/Documents/iOSWorkspace/IceRabbitKit'
+  pod 'IceRabbitKit', :path => '../IceRabbitKit'
   pod 'SDWebImage'
   pod "GCDWebServer", "~> 3.0"
   pod "GCDWebServer/WebDAV", "~> 3.0"
