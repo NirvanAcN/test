@@ -47,7 +47,11 @@
             
         case UIGestureRecognizerStateChanged: {
             CGPoint c = [panGestureRecognizer locationInView:self];
-            self.frame = CGRectMake(self.frame.origin.x, self.frame.origin.y, c.x, c.y);
+            if (c.x > _lastFrame.size.width || c.y > _lastFrame.size.height) {
+//                break;
+            } else {
+                self.frame = CGRectMake(self.frame.origin.x, self.frame.origin.y, c.x, c.y);
+            }
             break;
         }
             

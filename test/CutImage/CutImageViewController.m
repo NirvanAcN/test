@@ -23,7 +23,6 @@
     // Do any additional setup after loading the view.
     
     self.view.backgroundColor = UIColor.whiteColor;
-    NSLog(@"- %@ -", NSStringFromCGRect(self.view.frame));
     _cutView = [MHMCutView new];
     _cutView.backgroundColor = UIColor.grayColor;
     [self.view addSubview:_cutView];
@@ -34,7 +33,6 @@
         make.bottom.equalTo(self.view.mas_safeAreaLayoutGuideBottom);
     }];
     
-    NSLog(@"- %@ -", NSStringFromCGRect(self.view.frame));
     _cutView.xImage = [UIImage imageNamed:@"niu.jpg"];
     
 //    _imageView = [UIImageView new];
