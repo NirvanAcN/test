@@ -21,6 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface MHMCutMaskView : UIView
 
+@property (assign) CGRect lastFrame;
 @property (weak) id<MHMCutMaskViewDelegate> delegate;
 
 @end

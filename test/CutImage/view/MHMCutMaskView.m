@@ -8,9 +8,6 @@
 #import "MHMCutMaskView.h"
 
 @implementation MHMCutMaskView
-{
-    CGRect _lastFrame;
-}
 
 -(instancetype)initWithFrame:(CGRect)frame {
     self = [super initWithFrame:frame];
@@ -62,7 +59,6 @@
         default:
             break;
     }
-
 }
 
 @end

@@ -24,6 +24,8 @@ static const CGFloat kDefaultInsetValue = 20;
 @implementation MHMCutView
 {
     CGRect _windowsAnchor;
+    CGFloat _totalZoomScale;
+    CGAffineTransform _originTransform;
 }
 
 -(instancetype)initWithFrame:(CGRect)frame {
@@ -37,6 +39,7 @@ static const CGFloat kDefaultInsetValue = 20;
 
 -(void)testAction {
 //    [self cropActionByWidth:0 andHeight:0];
+    _totalZoomScale = 1;
     self.maskView.frame = _windowsAnchor;
 }
 
@@ -119,6 +122,8 @@ static const CGFloat kDefaultInsetValue = 20;
         self.containImageView.frame = [self calculateImageFrameByWindowSize:xImage.size];
         self.containImageView.center = [self convertPoint:self.center fromView:self.superview];
         self->_windowsAnchor = self.containImageView.frame;
+        
+        _originTransform = self.containImageView.transform;
     });
 }
 
@@ -139,8 +144,15 @@ static const CGFloat kDefaultInsetValue = 20;
 
 #pragma mark - crop action
 -(void)cropActionByWidth:(CGFloat)changedWidth andHeight:(CGFloat)changedHeight {
+    
+    NSLog(@"***************************************************");
+    
     CGSize f2 = self.containImageView.frame.size;
     CGRect maskOriginFrame = self.maskView.frame;
+
+    NSLog(@"* 原image view尺寸：%@", NSStringFromCGSize(f2));
+    NSLog(@"* 原mask view尺寸：%@", NSStringFromCGSize(self.maskView.lastFrame.size));
+    NSLog(@"* 变化量 w：%f, h：%f", changedWidth, changedHeight);
 
     CGRect f1 = [self calculateImageFrameByWindowSize:(CGSize){f2.width - changedWidth, f2.height - changedHeight}];
     f1.origin = self.containImageView.frame.origin;
@@ -150,12 +162,22 @@ static const CGFloat kDefaultInsetValue = 20;
     
     CGFloat zoomScale = fabsl(changedWidth) > fabsl(changedHeight) ? self.maskView.frame.size.width / maskOriginFrame.size.width : self.maskView.frame.size.height / maskOriginFrame.size.height;
 
-    NSLog(@"%f", zoomScale);
-    
+    NSLog(@"* 缩放比例：%f", zoomScale);
+    _totalZoomScale *= zoomScale;
 //    CGAffineTransform lastTranform3D = CATransform3DGetAffineTransform(self.containImageView.transform3D);
 //    self.containImageView.transform = CGAffineTransformScale(lastTranform3D, zoomScale, zoomScale);
-    self.containImageView.transform = CGAffineTransformScale(self.containImageView.transform, zoomScale, zoomScale);
-    NSLog(@"%@ - %@", NSStringFromCGSize(self.maskView.frame.size), NSStringFromCGSize(self.containImageView.frame.size));
+    
+    CGAffineTransform scaleTransform = CGAffineTransformScale(_originTransform, _totalZoomScale, _totalZoomScale);
+    CGAffineTransform scaleTransform1 = CGAffineTransformMakeScale(zoomScale, zoomScale);
+
+    self.containImageView.transform = scaleTransform;
+//    self.containImageView.transform = CGAffineTransformMakeScale(zoomScale, zoomScale);
+    NSLog(@"scaleTransform1：%@", NSStringFromCGAffineTransform(scaleTransform1));
+    NSLog(@"scaleTransform all：%@", NSStringFromCGAffineTransform(scaleTransform));
+    
+    NSLog(@"* 缩放后image view尺寸：%@", NSStringFromCGSize(self.containImageView.frame.size));
+    NSLog(@"* 缩放后mask view尺寸：%@", NSStringFromCGSize(self.maskView.frame.size));
+
     CGRect newFrame = self.containImageView.frame;
     newFrame.origin = self.maskView.frame.origin;
     self.containImageView.frame = newFrame;
