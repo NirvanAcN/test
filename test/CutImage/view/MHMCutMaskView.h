@@ -15,6 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @optional
 -(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView from:(CGPoint)startPoint to:(CGPoint)endPoint;
+@optional
 -(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView originFrame:(CGRect)oFrame newFrame:(CGRect)nFrame;
 
 @end

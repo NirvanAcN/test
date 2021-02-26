@@ -181,7 +181,6 @@ static const CGFloat kDefaultInsetValue = 20;
 //    }
     
     CGFloat zoomScale = MAX(zoomScaleWidth, zoomScaleHeight);
-//    changedWidth > changedHeight ? maskNewSize.width / maskOriginFrame.size.width : maskNewSize.height / maskOriginFrame.size.height;
     NSLog(@"%f", zoomScale);
     CGAffineTransform scaleTransform = CGAffineTransformMakeScale(zoomScale, zoomScale);
 //    CGAffineTransform scaleTransform = CGAffineTransformScale(self.containView.transform, zoomScale, zoomScale);
@@ -193,11 +192,17 @@ static const CGFloat kDefaultInsetValue = 20;
     CGPoint p1 = [self convertPoint:self.maskView.center fromView:self.containView];
     CGPoint p2center = [self convertPoint:self.center fromView:self.superview];
     self.containView.center = (CGPoint){self.containView.center.x + p2center.x - p1.x, self.containView.center.y + p2center.y - p1.y};
+    
+    [self.maskView setNeedsDisplay];
 }
 
 #pragma mark - MHMCutMaskViewDelegate
 -(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView originFrame:(CGRect)oFrame newFrame:(CGRect)nFrame {
     [self cropActionByWidth:CGRectGetWidth(oFrame) - CGRectGetWidth(nFrame) andHeight:CGRectGetHeight(oFrame) - CGRectGetHeight(nFrame)];
+}
+
+-(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView from:(CGPoint)startPoint to:(CGPoint)endPoint {
+    [self cropActionByWidth:startPoint.x - endPoint.x andHeight:startPoint.y - endPoint.y];
 }
 
 @end
