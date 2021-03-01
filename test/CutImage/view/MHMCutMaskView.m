@@ -36,9 +36,9 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
 }
 
 -(void)customCornersView {
-    UIPanGestureRecognizer * panGestureRecognizer = [[UIPanGestureRecognizer alloc] initWithTarget:self action:@selector(onPan:)];
     
     UIView * cornerViewLT = [UIView new];
+    cornerViewLT.tag = MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionTop;
     cornerViewLT.backgroundColor = UIColor.blackColor;
     [self addSubview:cornerViewLT];
     [cornerViewLT mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -48,6 +48,7 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
     }];
     
     UIView * cornerViewRT = [UIView new];
+    cornerViewRT.tag = MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionTop;
     cornerViewRT.backgroundColor = UIColor.blackColor;
     [self addSubview:cornerViewRT];
     [cornerViewRT mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -57,6 +58,7 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
     }];
     
     UIView * cornerViewRB = [UIView new];
+    cornerViewRB.tag = MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionBottom;
     cornerViewRB.backgroundColor = UIColor.blackColor;
     [self addSubview:cornerViewRB];
     [cornerViewRB mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -67,6 +69,7 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
     
     
     UIView * cornerViewLB = [UIView new];
+    cornerViewLB.tag = MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionBottom;
     cornerViewLB.backgroundColor = UIColor.blackColor;
     [self addSubview:cornerViewLB];
     [cornerViewLB mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -78,9 +81,14 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
 //    [cornerViewLT addGestureRecognizer:panGestureRecognizer];
 //    [cornerViewRT addGestureRecognizer:panGestureRecognizer];
 //    [cornerViewRB addGestureRecognizer:panGestureRecognizer];
-    [cornerViewLB addGestureRecognizer:panGestureRecognizer];
+//    [cornerViewLB addGestureRecognizer:panGestureRecognizer];
 
     _corners = @[cornerViewLT, cornerViewRT, cornerViewRB, cornerViewLB];
+    
+    [_corners enumerateObjectsUsingBlock:^(UIView * _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
+        UIPanGestureRecognizer * panGestureRecognizer = [[UIPanGestureRecognizer alloc] initWithTarget:self action:@selector(onPan:)];
+        [obj addGestureRecognizer:panGestureRecognizer];
+    }];
 }
 
 - (void)drawRect:(CGRect)rect {
@@ -104,39 +112,26 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
 }
 
 -(void)onPan:(UIPanGestureRecognizer *)panGestureRecognizer {
-    
-    CGPoint c = [panGestureRecognizer locationInView:self];
     switch (panGestureRecognizer.state) {
         case UIGestureRecognizerStateBegan: {
-            //            _lastFrame = self.frame;
-            //            [self foo:c];
-            
             _lastPoint = panGestureRecognizer.view.center;
-            
             break;
         }
         case UIGestureRecognizerStateChanged: {
-            //            CGPoint c = [panGestureRecognizer locationInView:self];
-            //            if (c.x > _lastFrame.size.width || c.y > _lastFrame.size.height) {
-            //                //                break;
-            //            } else {
-            //                self.frame = CGRectMake(self.frame.origin.x, self.frame.origin.y, c.x, c.y);
-            //            }
             panGestureRecognizer.view.center = [panGestureRecognizer locationInView:self];
-//            NSLog(@"%@", NSStringFromCGPoint(panGestureRecognizer.view.center));
-            [self updateSelfFrame];
+            [self updateSelfFrame:panGestureRecognizer.view.tag];
             break;
         }
             
         case UIGestureRecognizerStateEnded: {
-            //            if (self.delegate && [self.delegate respondsToSelector:@selector(cutMaskViewPanEnded:originFrame:newFrame:)]) {
-            //                [self.delegate cutMaskViewPanEnded:self originFrame:_lastFrame newFrame:self.frame];
-            //            }
+            UIView * cornerViewLT = [self viewWithTag:MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionTop];
+            UIView * cornerViewRB = [self viewWithTag:MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionBottom];
+
+            CGRect newFrame = (CGRect){cornerViewLT.center, (CGSize){cornerViewRB.center.x - cornerViewLT.center.x, cornerViewRB.center.y - cornerViewLT.center.y}};
+            self.frame = newFrame;
             
-            //            -(void)cutMaskViewPanEnded:(MHMCutMaskView *)cutMaskView originFrame:(CGRect)oFrame newFrame:(CGRect)nFrame;
             if (self.delegate && [self.delegate respondsToSelector:@selector(cutMaskViewPanEnded:from:to:)]) {
                 NSLog(@"%@", NSStringFromCGPoint(_lastPoint));
-
                 NSLog(@"%@", NSStringFromCGPoint(panGestureRecognizer.view.center));
                 [self.delegate cutMaskViewPanEnded:self from:_lastPoint to:panGestureRecognizer.view.center];
             }
@@ -147,11 +142,44 @@ typedef NS_OPTIONS(NSUInteger, MHMCutMaskViewCornerDirection) {
     }
 }
 
--(void)updateSelfFrame {
-    CGPoint originViewCenter = _corners.firstObject.center;
-    CGPoint sizeViewCenter = _corners[2].center;
-    CGRect newFrame = (CGRect){originViewCenter, (CGSize){sizeViewCenter.x - originViewCenter.x, sizeViewCenter.y - originViewCenter.y}};
-    self.frame = newFrame;
+-(void)updateSelfFrame:(MHMCutMaskViewCornerDirection)directionTag {
+    UIView * currentView = [self viewWithTag:directionTag];
+    
+    UIView * cornerViewLT = [self viewWithTag:MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionTop];
+    UIView * cornerViewLB = [self viewWithTag:MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionBottom];
+    UIView * cornerViewRT = [self viewWithTag:MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionTop];
+    UIView * cornerViewRB = [self viewWithTag:MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionBottom];
+
+    switch (directionTag) {
+        case MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionTop: { // 左上
+            cornerViewRT.center = (CGPoint){cornerViewRT.center.x, currentView.center.y};
+            cornerViewLB.center = (CGPoint){currentView.center.x, cornerViewLB.center.y};
+            
+            break;
+        }
+        case MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionTop: { // 右上
+            cornerViewLT.center = (CGPoint){cornerViewLT.center.x, currentView.center.y};
+            cornerViewRB.center = (CGPoint){currentView.center.x, cornerViewRB.center.y};
+
+            break;
+        }
+        case MHMCutMaskViewCornerDirectionRight|MHMCutMaskViewCornerDirectionBottom: { // 右下
+            cornerViewRT.center = (CGPoint){currentView.center.x, cornerViewRT.center.y};
+            cornerViewLB.center = (CGPoint){cornerViewLB.center.x, currentView.center.y};
+            
+            break;
+        }
+        case MHMCutMaskViewCornerDirectionLeft|MHMCutMaskViewCornerDirectionBottom: { // 左下
+            cornerViewLT.center = (CGPoint){currentView.center.x, cornerViewLT.center.y};
+            cornerViewRB.center = (CGPoint){cornerViewRB.center.x, currentView.center.y};
+            
+            break;
+        }
+        default:
+            break;
+    }
+
+
 }
 
 -(void)foo:(CGPoint)currentPoint {

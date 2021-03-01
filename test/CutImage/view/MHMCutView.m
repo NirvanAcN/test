@@ -157,8 +157,6 @@ static const CGFloat kDefaultInsetValue = 20;
 
 #pragma mark - crop action
 -(void)cropActionByWidth:(CGFloat)changedWidth andHeight:(CGFloat)changedHeight {
-//    NSLog(@"%@", NSStringFromCGPoint([self convertPoint:self.maskView.center fromView:self.containView]));
-
     // 记录缩放背景、裁切窗口的原始frame
     CGSize containViewOriginFrame = self.containView.frame.size;
     CGRect maskOriginFrame = self.maskView.frame;
@@ -182,9 +180,24 @@ static const CGFloat kDefaultInsetValue = 20;
     
     CGFloat zoomScale = MAX(zoomScaleWidth, zoomScaleHeight);
     NSLog(@"%f", zoomScale);
+    
+    CGAffineTransform originTransform = self.containView.transform;
+    
     CGAffineTransform scaleTransform = CGAffineTransformMakeScale(zoomScale, zoomScale);
 //    CGAffineTransform scaleTransform = CGAffineTransformScale(self.containView.transform, zoomScale, zoomScale);
     self.containView.transform = scaleTransform;
+    
+    
+    CGRect foo = [self convertRect:self.maskView.frame fromView:self.containView];
+
+    if (foo.size.width != (self.frame.size.width - 2 * kDefaultInsetValue) && foo.size.height != (self.frame.size.height - 2 *kDefaultInsetValue)) {
+        zoomScale = MIN(zoomScaleWidth, zoomScaleHeight);
+        self.containView.transform = originTransform;
+        self.containView.transform = CGAffineTransformMakeScale(zoomScale, zoomScale);
+    }
+    
+    foo = [self convertRect:self.maskView.frame fromView:self.containView];
+    NSLog(@"%@", NSStringFromCGRect(foo));
     
     CGRect newFrame = self.containView.frame;
     self.containView.frame = newFrame;
@@ -192,8 +205,6 @@ static const CGFloat kDefaultInsetValue = 20;
     CGPoint p1 = [self convertPoint:self.maskView.center fromView:self.containView];
     CGPoint p2center = [self convertPoint:self.center fromView:self.superview];
     self.containView.center = (CGPoint){self.containView.center.x + p2center.x - p1.x, self.containView.center.y + p2center.y - p1.y};
-    
-    [self.maskView setNeedsDisplay];
 }
 
 #pragma mark - MHMCutMaskViewDelegate
