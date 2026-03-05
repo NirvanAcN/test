@@ -1,0 +1,338 @@
+{
+  "AE": {
+    "emoji": "🇦🇪",
+    "cn": "阿联酋",
+    "en": "United Arab Emirates",
+    "dsf": "143481",
+    "cc": "ae"
+  },
+  "AG": {
+    "emoji": "🇦🇬",
+    "cn": "安提瓜和巴布达",
+    "en": "Antigua and Barbuda",
+    "dsf": "143540",
+    "cc": "ag"
+  },
+  "AI": {
+    "emoji": "🇦🇮",
+    "cn": "安圭拉",
+    "en": "Anguilla",
+    "dsf": "143538",
+    "cc": "ai"
+  },
+  "AL": {
+    "emoji": "🇦🇱",
+    "cn": "阿尔巴尼亚",
+    "en": "Albania",
+    "dsf": "143575",
+    "cc": "al"
+  },
+  "AM": {
+    "emoji": "🇦🇲",
+    "cn": "亚美尼亚",
+    "en": "Armenia",
+    "dsf": "143524",
+    "cc": "am"
+  },
+  "AO": {
+    "emoji": "🇦🇴",
+    "cn": "安哥拉",
+    "en": "Angola",
+    "dsf": "143564",
+    "cc": "ao"
+  },
+  "AR": {
+    "emoji": "🇦🇷",
+    "cn": "阿根廷",
+    "en": "Argentina",
+    "dsf": "143505",
+    "cc": "ar"
+  },
+  "AT": {
+    "emoji": "🇦🇹",
+    "cn": "奥地利",
+    "en": "Austria",
+    "dsf": "143445",
+    "cc": "at"
+  },
+  "AU": {
+    "emoji": "🇦🇺",
+    "cn": "澳大利亚",
+    "en": "Australia",
+    "dsf": "143460",
+    "cc": "au"
+  },
+  "AZ": {
+    "emoji": "🇦🇿",
+    "cn": "阿塞拜疆",
+    "en": "Azerbaijan",
+    "dsf": "143568",
+    "cc": "az"
+  },
+  "BB": {
+    "emoji": "🇧🇧",
+    "cn": "巴巴多斯",
+    "en": "Barbados",
+    "dsf": "143541",
+    "cc": "bb"
+  },
+  "BE": {
+    "emoji": "🇧🇪",
+    "cn": "比利时",
+    "en": "Belgium",
+    "dsf": "143446",
+    "cc": "be"
+  },
+  "BF": {
+    "emoji": "🇧🇫",
+    "cn": "布基纳法索",
+    "en": "Burkina Faso",
+    "dsf": "143578",
+    "cc": "bf"
+  },
+  "BG": {
+    "emoji": "🇧🇬",
+    "cn": "保加利亚",
+    "en": "Bulgaria",
+    "dsf": "143526",
+    "cc": "bg"
+  },
+  "BH": {
+    "emoji": "🇧🇭",
+    "cn": "巴林",
+    "en": "Bahrain",
+    "dsf": "143559",
+    "cc": "bh"
+  },
+  "BJ": {
+    "emoji": "🇧🇯",
+    "cn": "贝宁",
+    "en": "Benin",
+    "dsf": "143576",
+    "cc": "bj"
+  },
+  "BM": {
+    "emoji": "🇧🇲",
+    "cn": "百慕大",
+    "en": "Bermuda",
+    "dsf": "143542",
+    "cc": "bm"
+  },
+  "BN": {
+    "emoji": "🇧🇳",
+    "cn": "文莱",
+    "en": "Brunei Darussalam",
+    "dsf": "143560",
+    "cc": "bn"
+  },
+  "BO": {
+    "emoji": "🇧🇴",
+    "cn": "玻利维亚",
+    "en": "Bolivia, Plurinational State of",
+    "dsf": "143556",
+    "cc": "bo"
+  },
+  "BR": {
+    "emoji": "🇧🇷",
+    "cn": "巴西",
+    "en": "Brazil",
+    "dsf": "143503",
+    "cc": "br"
+  },
+  "BS": {
+    "emoji": "🇧🇸",
+    "cn": "巴哈马",
+    "en": "Bahamas",
+    "dsf": "143539",
+    "cc": "bs"
+  },
+  "BT": {
+    "emoji": "🇧🇹",
+    "cn": "不丹",
+    "en": "Bhutan",
+    "dsf": "143577",
+    "cc": "bt"
+  },
+  "BW": {
+    "emoji": "🇧🇼",
+    "cn": "博茨瓦纳",
+    "en": "Botswana",
+    "dsf": "143525",
+    "cc": "bw"
+  },
+  "BY": {
+    "emoji": "🇧🇾",
+    "cn": "白俄罗斯",
+    "en": "Belarus",
+    "dsf": "143565",
+    "cc": "by"
+  },
+  "BZ": {
+    "emoji": "🇧🇿",
+    "cn": "伯利兹",
+    "en": "Belize",
+    "dsf": "143555",
+    "cc": "bz"
+  },
+  "CA": {
+    "emoji": "🇨🇦",
+    "cn": "加拿大",
+    "en": "Canada",
+    "dsf": "143455",
+    "cc": "ca"
+  },
+  "CH": {
+    "emoji": "🇨🇭",
+    "cn": "瑞士",
+    "en": "Switzerland",
+    "dsf": "143459",
+    "cc": "ch"
+  },
+  "CN": {
+    "emoji": "🇨🇳",
+    "cn": "中国",
+    "en": "China",
+    "dsf": "143465",
+    "cc": "cn"
+  },
+  "DE": {
+    "emoji": "🇩🇪",
+    "cn": "德国",
+    "en": "Germany",
+    "dsf": "143443",
+    "cc": "de"
+  },
+  "ES": {
+    "emoji": "🇪🇸",
+    "cn": "西班牙",
+    "en": "Spain",
+    "dsf": "143454",
+    "cc": "es"
+  },
+  "FR": {
+    "emoji": "🇫🇷",
+    "cn": "法国",
+    "en": "France",
+    "dsf": "143442",
+    "cc": "fr"
+  },
+  "GB": {
+    "emoji": "🇬🇧",
+    "cn": "英国",
+    "en": "UK",
+    "dsf": "143444",
+    "cc": "gb"
+  },
+  "HK": {
+    "emoji": "🇭🇰",
+    "cn": "中国香港",
+    "en": "Hong Kong",
+    "dsf": "143463",
+    "cc": "hk"
+  },
+  "IN": {
+    "emoji": "🇮🇳",
+    "cn": "印度",
+    "en": "India",
+    "dsf": "143467",
+    "cc": "in"
+  },
+  "IT": {
+    "emoji": "🇮🇹",
+    "cn": "意大利",
+    "en": "Italia",
+    "dsf": "143450",
+    "cc": "it"
+  },
+  "JP": {
+    "emoji": "🇯🇵",
+    "cn": "日本",
+    "en": "Japan",
+    "dsf": "143462",
+    "cc": "jp"
+  },
+  "KR": {
+    "emoji": "🇰🇷",
+    "cn": "韩国",
+    "en": "South Korea",
+    "dsf": "143466",
+    "cc": "kr"
+  },
+  "MO": {
+    "emoji": "🇲🇴",
+    "cn": "中国澳门",
+    "en": "Macao",
+    "dsf": "143515",
+    "cc": "mo"
+  },
+  "MX": {
+    "emoji": "🇲🇽",
+    "cn": "墨西哥",
+    "en": "Mexico",
+    "dsf": "143468",
+    "cc": "mx"
+  },
+  "NL": {
+    "emoji": "🇳🇱",
+    "cn": "荷兰",
+    "en": "Netherlands",
+    "dsf": "143452",
+    "cc": "nl"
+  },
+  "RU": {
+    "emoji": "🇷🇺",
+    "cn": "俄罗斯",
+    "en": "Russian Federation",
+    "dsf": "143469",
+    "cc": "ru"
+  },
+  "SG": {
+    "emoji": "🇸🇬",
+    "cn": "新加坡",
+    "en": "Singapore",
+    "dsf": "143464",
+    "cc": "sg"
+  },
+  "TH": {
+    "emoji": "🇹🇭",
+    "cn": "泰国",
+    "en": "Thailand",
+    "dsf": "143475",
+    "cc": "th"
+  },
+  "TR": {
+    "emoji": "🇹🇷",
+    "cn": "土耳其",
+    "en": "Turkey",
+    "dsf": "143480",
+    "cc": "tr"
+  },
+  "TW": {
+    "emoji": "🇨🇳",
+    "cn": "中国台湾",
+    "en": "Taiwan",
+    "dsf": "143470",
+    "cc": "tw"
+  },
+  "US": {
+    "emoji": "🇺🇸",
+    "cn": "美国",
+    "en": "United States",
+    "dsf": "143441",
+    "cc": "us"
+  },
+  "VN": {
+    "emoji": "🇻🇳",
+    "cn": "越南",
+    "en": "Vietnam",
+    "dsf": "143471",
+    "cc": "vn"
+  },
+  "ZA": {
+    "emoji": "🇿🇦",
+    "cn": "南非",
+    "en": "South Africa",
+    "dsf": "143472",
+    "cc": "za"
+  }
+}
