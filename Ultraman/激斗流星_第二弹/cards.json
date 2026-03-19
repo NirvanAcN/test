@@ -45,7 +45,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-001.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-001",
@@ -93,7 +94,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-001.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-002",
@@ -141,7 +143,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-002.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-002",
@@ -189,7 +192,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-002.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-003",
@@ -237,7 +241,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-003.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-003",
@@ -285,7 +290,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-003.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-004",
@@ -333,7 +339,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-004.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-004",
@@ -381,7 +388,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-004.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-005",
@@ -429,7 +437,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-005.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-005",
@@ -477,7 +486,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-005.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-006",
@@ -525,7 +535,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-006.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-007",
@@ -573,7 +584,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-007.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-007",
@@ -621,7 +633,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-007.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-008",
@@ -669,7 +682,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-008.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-009",
@@ -717,7 +731,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-009.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-010",
@@ -765,7 +780,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-010.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-011",
@@ -813,7 +829,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-011.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-012",
@@ -861,7 +878,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-012.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-013",
@@ -909,7 +927,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-013.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-014",
@@ -957,7 +976,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-014.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-015",
@@ -1005,7 +1025,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-015.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-016",
@@ -1053,7 +1074,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-016.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-017",
@@ -1101,7 +1123,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-017.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-018",
@@ -1149,7 +1172,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-018.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-019",
@@ -1197,7 +1221,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-019.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-020",
@@ -1245,7 +1270,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-020.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-021",
@@ -1293,7 +1319,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-021.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-022",
@@ -1341,7 +1368,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-022.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-023",
@@ -1389,7 +1417,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-023.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-024",
@@ -1437,7 +1466,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-024.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-025",
@@ -1485,7 +1515,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-025.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-026",
@@ -1532,7 +1563,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-026.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-027",
@@ -1580,7 +1612,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-027.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-028",
@@ -1628,7 +1661,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-028.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-029",
@@ -1676,7 +1710,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-029.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-030",
@@ -1723,7 +1758,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-030.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-031",
@@ -1771,7 +1807,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-031.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-032",
@@ -1819,7 +1856,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-032.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-033",
@@ -1867,7 +1905,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-033.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-034",
@@ -1915,7 +1954,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-034.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-035",
@@ -1963,7 +2003,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-035.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-036",
@@ -2011,7 +2052,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-036.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-037",
@@ -2059,7 +2101,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-037.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-038",
@@ -2107,7 +2150,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-038.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-039",
@@ -2155,7 +2199,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-039.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-040",
@@ -2203,7 +2248,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-040.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-041",
@@ -2251,7 +2297,8 @@
     },
     "images": {
       "card": "images/cards/BZ2-041.png"
-    }
+    },
+    "version": "1.0.0"
   },
   {
     "cardNum": "BZ2-042",
@@ -2299,6 +2346,7 @@
     },
     "images": {
       "card": "images/cards/BZ2-042.png"
-    }
+    },
+    "version": "1.0.0"
   }
 ]
