@@ -50,55 +50,6 @@
   },
   {
     "cardNum": "BZ3-002",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024062409293163.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "奥特之王",
-    "hp": 10,
-    "attack": 8,
-    "speed": 8,
-    "attribute": {
-      "name": "奥特之王",
-      "icon": "/uploadfile/upload/2024062409293188.png",
-      "localIcon": "images/attributes/2024062409293188.png"
-    },
-    "specialMove": {
-      "name": "王者闪光",
-      "value": 14
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410415328.png",
-        "name": "奥特之王",
-        "localIcon": "images/skills/2024062410415328.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921195148.png",
-        "name": "奥特之王",
-        "localIcon": "images/skills/2024081921195148.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411041667.png",
-        "name": "奥特之王",
-        "localIcon": "images/skills/2024062411041667.png"
-      }
-    ],
-    "id": "BZ3-002",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-002.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-002",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024061218264320.png",
     "nameJa": "ウルトラマンゼット オリジナル",
@@ -143,55 +94,6 @@
     },
     "images": {
       "card": "images/cards/BZ3-002.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-003",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218261749.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "雷杰多奥特曼",
-    "hp": 6,
-    "attack": 12,
-    "speed": 12,
-    "attribute": {
-      "name": "雷杰多奥特曼",
-      "icon": "/uploadfile/upload/2024062409295649.png",
-      "localIcon": "images/attributes/2024062409295649.png"
-    },
-    "specialMove": {
-      "name": "雷杰多火花",
-      "value": 10
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410423165.png",
-        "name": "雷杰多奥特曼",
-        "localIcon": "images/skills/2024062410423165.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921201627.png",
-        "name": "雷杰多奥特曼",
-        "localIcon": "images/skills/2024081921201627.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411044740.png",
-        "name": "雷杰多奥特曼",
-        "localIcon": "images/skills/2024062411044740.png"
-      }
-    ],
-    "id": "BZ3-003",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-003.png"
     },
     "version": "1.0.0"
   },
@@ -246,55 +148,6 @@
   },
   {
     "cardNum": "BZ3-004",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218255681.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "诺亚奥特曼",
-    "hp": 5,
-    "attack": 14,
-    "speed": 9,
-    "attribute": {
-      "name": "诺亚奥特曼",
-      "icon": "/uploadfile/upload/2024062409302326.png",
-      "localIcon": "images/attributes/2024062409302326.png"
-    },
-    "specialMove": {
-      "name": "雷杰多奥特曼",
-      "value": 12
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410424873.png",
-        "name": "诺亚奥特曼",
-        "localIcon": "images/skills/2024062410424873.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921203712.png",
-        "name": "诺亚奥特曼",
-        "localIcon": "images/skills/2024081921203712.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411130927.png",
-        "name": "诺亚奥特曼",
-        "localIcon": "images/skills/2024062411130927.png"
-      }
-    ],
-    "id": "BZ3-004",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-004.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-004",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024061218260779.png",
     "nameJa": "ウルトラマンゼット オリジナル",
@@ -339,54 +192,6 @@
     },
     "images": {
       "card": "images/cards/BZ3-004.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-005",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218253024.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "赛罗奥特曼",
-    "hp": 7,
-    "attack": 11,
-    "speed": 9,
-    "attribute": {
-      "name": "赛罗奥特曼",
-      "icon": "/uploadfile/upload/"
-    },
-    "specialMove": {
-      "name": "等离子火花斩",
-      "value": 11
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410430254.png",
-        "name": "赛罗奥特曼",
-        "localIcon": "images/skills/2024062410430254.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921210935.png",
-        "name": "赛罗奥特曼",
-        "localIcon": "images/skills/2024081921210935.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411083682.png",
-        "name": "赛罗奥特曼",
-        "localIcon": "images/skills/2024062411083682.png"
-      }
-    ],
-    "id": "BZ3-005",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-005.png"
     },
     "version": "1.0.0"
   },
@@ -440,55 +245,6 @@
   },
   {
     "cardNum": "BZ3-006",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218251873.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "赛迦奥特曼",
-    "hp": 8,
-    "attack": 11,
-    "speed": 14,
-    "attribute": {
-      "name": "赛迦奥特曼",
-      "icon": "/uploadfile/upload/2024062409311351.png",
-      "localIcon": "images/attributes/2024062409311351.png"
-    },
-    "specialMove": {
-      "name": "赛迦无限拳",
-      "value": 7
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410431910.png",
-        "name": "赛迦奥特曼",
-        "localIcon": "images/skills/2024062410431910.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921213729.png",
-        "name": "赛迦奥特曼",
-        "localIcon": "images/skills/2024081921213729.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411122640.png",
-        "name": "赛迦奥特曼",
-        "localIcon": "images/skills/2024062411122640.png"
-      }
-    ],
-    "id": "BZ3-006",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-006.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-006",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024061218252485.png",
     "nameJa": "ウルトラマンゼット オリジナル",
@@ -532,55 +288,6 @@
     },
     "images": {
       "card": "images/cards/BZ3-006.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-007",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218243151.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "格罗布奥特曼",
-    "hp": 9,
-    "attack": 9,
-    "speed": 11,
-    "attribute": {
-      "name": "格罗布奥特曼",
-      "icon": "/uploadfile/upload/2024062409314089.png",
-      "localIcon": "images/attributes/2024062409314089.png"
-    },
-    "specialMove": {
-      "name": "格罗布奇迹光线",
-      "value": 10
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410433576.png",
-        "name": "格罗布奥特曼",
-        "localIcon": "images/skills/2024062410433576.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921215850.png",
-        "name": "格罗布奥特曼",
-        "localIcon": "images/skills/2024081921215850.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411103899.png",
-        "name": "格罗布奥特曼",
-        "localIcon": "images/skills/2024062411103899.png"
-      }
-    ],
-    "id": "BZ3-007",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-007.png"
     },
     "version": "1.0.0"
   },
@@ -635,55 +342,6 @@
   },
   {
     "cardNum": "BZ3-008",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218240779.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "泰迦奥特曼 三重斯特利姆形态",
-    "hp": 8,
-    "attack": 9,
-    "speed": 9,
-    "attribute": {
-      "name": "泰迦奥特曼 三重斯特利姆形态",
-      "icon": "/uploadfile/upload/2024062409320153.png",
-      "localIcon": "images/attributes/2024062409320153.png"
-    },
-    "specialMove": {
-      "name": "四人小队爆冲",
-      "value": 13
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410435637.png",
-        "name": "泰迦奥特曼 三重斯特利姆形态",
-        "localIcon": "images/skills/2024062410435637.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921221962.png",
-        "name": "泰迦奥特曼 三重斯特利姆形态",
-        "localIcon": "images/skills/2024081921221962.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411111167.png",
-        "name": "泰迦奥特曼 三重斯特利姆形态",
-        "localIcon": "images/skills/2024062411111167.png"
-      }
-    ],
-    "id": "BZ3-008",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-008.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-008",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024061218242089.png",
     "nameJa": "ウルトラマンゼット オリジナル",
@@ -728,104 +386,6 @@
     },
     "images": {
       "card": "images/cards/BZ3-008.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-009",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218234952.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "泽塔奥特曼 德尔塔天爪",
-    "hp": 8,
-    "attack": 12,
-    "speed": 10,
-    "attribute": {
-      "name": "泽塔奥特曼 德尔塔天爪",
-      "icon": "/uploadfile/upload/2024062409324453.png",
-      "localIcon": "images/attributes/2024062409324453.png"
-    },
-    "specialMove": {
-      "name": "迪斯西姆切割",
-      "value": 9
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410441070.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024062410441070.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921231924.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024081921231924.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411134686.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024062411134686.png"
-      }
-    ],
-    "id": "BZ3-009",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-009.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ3-009",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024061218240049.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "泽塔奥特曼 德尔塔天爪",
-    "hp": 8,
-    "attack": 12,
-    "speed": 10,
-    "attribute": {
-      "name": "泽塔奥特曼 德尔塔天爪",
-      "icon": "/uploadfile/upload/2024062409322538.png",
-      "localIcon": "images/attributes/2024062409322538.png"
-    },
-    "specialMove": {
-      "name": "迪斯西姆切割",
-      "value": 9
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024062410441563.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024062410441563.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024081921232925.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024081921232925.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024062411135920.png",
-        "name": "泽塔奥特曼 德尔塔天爪",
-        "localIcon": "images/skills/2024062411135920.png"
-      }
-    ],
-    "id": "BZ3-009",
-    "set": {
-      "id": "45",
-      "name": "激斗流星 第三弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ3-009.png"
     },
     "version": "1.0.0"
   },

@@ -49,55 +49,6 @@
     "version": "1.0.0"
   },
   {
-    "cardNum": "BZ2-001",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011210325724.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "布莱泽奥特曼 法多兰盔甲",
-    "hp": 10,
-    "attack": 12,
-    "speed": 7,
-    "attribute": {
-      "name": "布莱泽奥特曼 法多兰盔甲",
-      "icon": "/uploadfile/upload/2024011210325760.png",
-      "localIcon": "images/attributes/2024011210325760.png"
-    },
-    "specialMove": {
-      "name": "奇尔索法多炎雷斩",
-      "value": 10
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011210325745.png",
-        "name": "布莱泽奥特曼 法多兰盔甲",
-        "localIcon": "images/skills/2024011210325745.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011210325794.png",
-        "name": "布莱泽奥特曼 法多兰盔甲",
-        "localIcon": "images/skills/2024011210325794.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011210325714.png",
-        "name": "布莱泽奥特曼 法多兰盔甲",
-        "localIcon": "images/skills/2024011210325714.png"
-      }
-    ],
-    "id": "BZ2-001",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-001.png"
-    },
-    "version": "1.0.0"
-  },
-  {
     "cardNum": "BZ2-002",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024011210345114.png",
@@ -133,55 +84,6 @@
         "icon": "/uploadfile/upload/2024011210345135.png",
         "name": "奈克赛斯奥特曼 幼年形态",
         "localIcon": "images/skills/2024011210345135.png"
-      }
-    ],
-    "id": "BZ2-002",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-002.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ2-002",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011210361547.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "奈克赛斯奥特曼 幼年形态",
-    "hp": 8,
-    "attack": 8,
-    "speed": 13,
-    "attribute": {
-      "name": "奈克赛斯奥特曼 幼年形态",
-      "icon": "/uploadfile/upload/2024011210361580.png",
-      "localIcon": "images/attributes/2024011210361580.png"
-    },
-    "specialMove": {
-      "name": "十字风暴",
-      "value": 9
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011210361586.png",
-        "name": "奈克赛斯奥特曼 幼年形态",
-        "localIcon": "images/skills/2024011210361586.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011210361584.png",
-        "name": "奈克赛斯奥特曼 幼年形态",
-        "localIcon": "images/skills/2024011210361584.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011210361558.png",
-        "name": "奈克赛斯奥特曼 幼年形态",
-        "localIcon": "images/skills/2024011210361558.png"
       }
     ],
     "id": "BZ2-002",
@@ -245,55 +147,6 @@
     "version": "1.0.0"
   },
   {
-    "cardNum": "BZ2-003",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011210402044.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "赛罗奥特曼 野性爆裂",
-    "hp": 8,
-    "attack": 13,
-    "speed": 12,
-    "attribute": {
-      "name": "赛罗奥特曼 野性爆裂",
-      "icon": "/uploadfile/upload/2024011210402094.png",
-      "localIcon": "images/attributes/2024011210402094.png"
-    },
-    "specialMove": {
-      "name": "榴弹赛罗射击",
-      "value": 6
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011210402033.png",
-        "name": "赛罗奥特曼 野性爆裂",
-        "localIcon": "images/skills/2024011210402033.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011210402071.png",
-        "name": "赛罗奥特曼 野性爆裂",
-        "localIcon": "images/skills/2024011210402071.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011210402062.png",
-        "name": "赛罗奥特曼 野性爆裂",
-        "localIcon": "images/skills/2024011210402062.png"
-      }
-    ],
-    "id": "BZ2-003",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-003.png"
-    },
-    "version": "1.0.0"
-  },
-  {
     "cardNum": "BZ2-004",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024011210423544.png",
@@ -343,55 +196,6 @@
     "version": "1.0.0"
   },
   {
-    "cardNum": "BZ2-004",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011210441490.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "艾克斯奥特曼 混合装甲",
-    "hp": 11,
-    "attack": 12,
-    "speed": 5,
-    "attribute": {
-      "name": "艾克斯奥特曼 混合装甲",
-      "icon": "/uploadfile/upload/2024011210441434.png",
-      "localIcon": "images/attributes/2024011210441434.png"
-    },
-    "specialMove": {
-      "name": "终极扎纳帝姆光线",
-      "value": 11
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011210441495.png",
-        "name": "艾克斯奥特曼 混合装甲",
-        "localIcon": "images/skills/2024011210441495.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011210441412.png",
-        "name": "艾克斯奥特曼 混合装甲",
-        "localIcon": "images/skills/2024011210441412.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011210441453.png",
-        "name": "艾克斯奥特曼 混合装甲",
-        "localIcon": "images/skills/2024011210441453.png"
-      }
-    ],
-    "id": "BZ2-004",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-004.png"
-    },
-    "version": "1.0.0"
-  },
-  {
     "cardNum": "BZ2-005",
     "rarity": "究极稀有(UR)",
     "cardImg": "/uploadfile/upload/2024011210461630.png",
@@ -427,55 +231,6 @@
         "icon": "/uploadfile/upload/2024011210461620.png",
         "name": "欧布奥特曼 原生形态",
         "localIcon": "images/skills/2024011210461620.png"
-      }
-    ],
-    "id": "BZ2-005",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-005.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ2-005",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011210481487.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "欧布奥特曼 原生形态",
-    "hp": 8,
-    "attack": 10,
-    "speed": 7,
-    "attribute": {
-      "name": "欧布奥特曼 原生形态",
-      "icon": "/uploadfile/upload/2024011210481472.png",
-      "localIcon": "images/attributes/2024011210481472.png"
-    },
-    "specialMove": {
-      "name": "欧布至高圣剑 欧利吉姆银河",
-      "value": 13
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011210481499.png",
-        "name": "欧布奥特曼 原生形态",
-        "localIcon": "images/skills/2024011210481499.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011210481460.png",
-        "name": "欧布奥特曼 原生形态",
-        "localIcon": "images/skills/2024011210481460.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011210481428.png",
-        "name": "欧布奥特曼 原生形态",
-        "localIcon": "images/skills/2024011210481428.png"
       }
     ],
     "id": "BZ2-005",
@@ -574,55 +329,6 @@
         "icon": "/uploadfile/upload/2024011211090852.png",
         "name": "特利迦奥特曼",
         "localIcon": "images/skills/2024011211090852.png"
-      }
-    ],
-    "id": "BZ2-007",
-    "set": {
-      "id": "42",
-      "name": "激斗流星 第二弹",
-      "series": "激斗流星"
-    },
-    "images": {
-      "card": "images/cards/BZ2-007.png"
-    },
-    "version": "1.0.0"
-  },
-  {
-    "cardNum": "BZ2-007",
-    "rarity": "究极稀有(UR_PARA)",
-    "cardImg": "/uploadfile/upload/2024011211110713.png",
-    "nameJa": "ウルトラマンゼット オリジナル",
-    "cardName": "特利迦奥特曼",
-    "hp": 10,
-    "attack": 8,
-    "speed": 8,
-    "attribute": {
-      "name": "特利迦奥特曼",
-      "icon": "/uploadfile/upload/2024011211110757.png",
-      "localIcon": "images/attributes/2024011211110757.png"
-    },
-    "specialMove": {
-      "name": "光与暗，再次相遇",
-      "value": 12
-    },
-    "skills": [
-      {
-        "type": "爆发类型",
-        "icon": "/uploadfile/upload/2024011211110736.png",
-        "name": "特利迦奥特曼",
-        "localIcon": "images/skills/2024011211110736.png"
-      },
-      {
-        "type": "搭档",
-        "icon": "/uploadfile/upload/2024011211110762.png",
-        "name": "特利迦奥特曼",
-        "localIcon": "images/skills/2024011211110762.png"
-      },
-      {
-        "type": "卡片技能",
-        "icon": "/uploadfile/upload/2024011211110742.png",
-        "name": "特利迦奥特曼",
-        "localIcon": "images/skills/2024011211110742.png"
       }
     ],
     "id": "BZ2-007",
