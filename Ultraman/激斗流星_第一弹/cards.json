@@ -1,0 +1,2301 @@
+[
+  {
+    "cardNum": "BZ1-001",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714211514.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "布莱泽奥特曼",
+    "hp": 6,
+    "attack": 11,
+    "speed": 14,
+    "attribute": {
+      "name": "布莱泽奥特曼",
+      "icon": "/uploadfile/upload/2023110714211556.png",
+      "localIcon": "images/attributes/2023110714211556.png"
+    },
+    "specialMove": {
+      "name": "螺旋光矛",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714211563.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110714211563.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714283758.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110714283758.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714283768.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110714283768.png"
+      }
+    ],
+    "id": "BZ1-001",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-001.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-002",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714200390.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奥特曼",
+    "hp": 9,
+    "attack": 10,
+    "speed": 6,
+    "attribute": {
+      "name": "奥特曼",
+      "icon": "/uploadfile/upload/2023110714200362.png",
+      "localIcon": "images/attributes/2023110714200362.png"
+    },
+    "specialMove": {
+      "name": "斯派修姆光线",
+      "value": 13313
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714200392.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714200392.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714285172.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714285172.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714285135.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714285135.png"
+      }
+    ],
+    "id": "BZ1-002",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-002.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-002",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714194963.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奥特曼",
+    "hp": 9,
+    "attack": 10,
+    "speed": 6,
+    "attribute": {
+      "name": "奥特曼",
+      "icon": "/uploadfile/upload/2023110714194978.png",
+      "localIcon": "images/attributes/2023110714194978.png"
+    },
+    "specialMove": {
+      "name": "斯派修姆光线",
+      "value": 13313
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714194973.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714194973.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714345333.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714345333.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714345326.png",
+        "name": "奥特曼",
+        "localIcon": "images/skills/2023110714345326.png"
+      }
+    ],
+    "id": "BZ1-002",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-002.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-003",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714181179.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼 无限形态",
+    "hp": 7,
+    "attack": 10,
+    "speed": 9,
+    "attribute": {
+      "name": "梦比优斯奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2023110714181131.png",
+      "localIcon": "images/attributes/2023110714181131.png"
+    },
+    "specialMove": {
+      "name": "宇宙奇迹攻击",
+      "value": 14
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714181126.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714181126.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714181153.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714181153.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714285949.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714285949.png"
+      }
+    ],
+    "id": "BZ1-003",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-003.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-003",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714174413.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼 无限形态",
+    "hp": 7,
+    "attack": 10,
+    "speed": 9,
+    "attribute": {
+      "name": "梦比优斯奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2023110714174453.png",
+      "localIcon": "images/attributes/2023110714174453.png"
+    },
+    "specialMove": {
+      "name": "宇宙奇迹攻击",
+      "value": 14
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714174482.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714174482.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714174429.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714174429.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714290777.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714290777.png"
+      }
+    ],
+    "id": "BZ1-003",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-003.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-004",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714160910.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 迪斯西姆天爪",
+    "hp": 6,
+    "attack": 14,
+    "speed": 8,
+    "attribute": {
+      "name": "泽塔奥特曼 迪斯西姆天爪",
+      "icon": "/uploadfile/upload/2023110714160942.png",
+      "localIcon": "images/attributes/2023110714160942.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆迪斯爆裂",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714160912.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪",
+        "localIcon": "images/skills/2023110714160912.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714160982.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪",
+        "localIcon": "images/skills/2023110714160982.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714160930.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪",
+        "localIcon": "images/skills/2023110714160930.png"
+      }
+    ],
+    "id": "BZ1-004",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-004.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-004",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714152447.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 迪斯西姆天爪",
+    "hp": 6,
+    "attack": 14,
+    "speed": 8,
+    "attribute": {
+      "name": "泽塔奥特曼 迪斯西姆天爪",
+      "icon": "/uploadfile/upload/2023110714353296.png",
+      "localIcon": "images/attributes/2023110714353296.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆迪斯爆裂",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714152429.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪",
+        "localIcon": "images/skills/2023110714152429.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714152465.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪",
+        "localIcon": "images/skills/2023110714152465.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714152490.png",
+        "name": "泽塔奥特曼 迪斯西姆天爪"
+      }
+    ],
+    "id": "BZ1-004",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-004.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-005",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714132394.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼",
+    "hp": 10,
+    "attack": 8,
+    "speed": 9,
+    "attribute": {
+      "name": "迪迦奥特曼",
+      "icon": "/uploadfile/upload/2023110714132399.png",
+      "localIcon": "images/attributes/2023110714132399.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714132395.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714132395.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714132356.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714132356.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714354955.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714354955.png"
+      }
+    ],
+    "id": "BZ1-005",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-005.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-005",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714114793.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼",
+    "hp": 10,
+    "attack": 8,
+    "speed": 9,
+    "attribute": {
+      "name": "迪迦奥特曼",
+      "icon": "/uploadfile/upload/2023110714114772.png",
+      "localIcon": "images/attributes/2023110714114772.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714114785.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714114785.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714114736.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714114736.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714360861.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110714360861.png"
+      }
+    ],
+    "id": "BZ1-005",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-005.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-006",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714093320.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼",
+    "hp": 8,
+    "attack": 10,
+    "speed": 7,
+    "attribute": {
+      "name": "银河奥特曼",
+      "icon": "/uploadfile/upload/2023110714093377.png",
+      "localIcon": "images/attributes/2023110714093377.png"
+    },
+    "specialMove": {
+      "name": "银河火花枪",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714093359.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714093359.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714292161.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714292161.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714093389.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714093389.png"
+      }
+    ],
+    "id": "BZ1-006",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-006.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-006",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714060995.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼",
+    "hp": 8,
+    "attack": 10,
+    "speed": 7,
+    "attribute": {
+      "name": "银河奥特曼",
+      "icon": "/uploadfile/upload/2023110714060984.png",
+      "localIcon": "images/attributes/2023110714060984.png"
+    },
+    "specialMove": {
+      "name": "银河火花枪",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714060918.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714060918.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714293193.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714293193.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714060930.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2023110714060930.png"
+      }
+    ],
+    "id": "BZ1-006",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-006.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-007",
+    "rarity": "究极稀有(UR_PARA)",
+    "cardImg": "/uploadfile/upload/2023110714031186.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "德凯奥特曼",
+    "hp": 8,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "德凯奥特曼",
+      "icon": "/uploadfile/upload/2023110714031164.png",
+      "localIcon": "images/attributes/2023110714031164.png"
+    },
+    "specialMove": {
+      "name": "精英胜利队出动！！",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714031120.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714031120.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714295226.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714295226.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714031137.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714031137.png"
+      }
+    ],
+    "id": "BZ1-007",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-007.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-007",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110714002214.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "德凯奥特曼",
+    "hp": 8,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "德凯奥特曼",
+      "icon": "/uploadfile/upload/2023110714002245.png",
+      "localIcon": "images/attributes/2023110714002245.png"
+    },
+    "specialMove": {
+      "name": "精英胜利队出动！！",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714002275.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714002275.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714294271.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714294271.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714002255.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023110714002255.png"
+      }
+    ],
+    "id": "BZ1-007",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-007.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-008",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110713574851.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿斯加隆",
+    "hp": 13,
+    "attack": 11,
+    "speed": 5,
+    "attribute": {
+      "name": "阿斯加隆",
+      "icon": "/uploadfile/upload/2023110713574832.png",
+      "localIcon": "images/attributes/2023110713574832.png"
+    },
+    "specialMove": {
+      "name": "阿斯火焰",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713574873.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110713574873.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714301380.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110714301380.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110714301382.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110714301382.png"
+      }
+    ],
+    "id": "BZ1-008",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-008.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-009",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110713552018.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "黑暗路基艾尔",
+    "hp": 7,
+    "attack": 13,
+    "speed": 8,
+    "attribute": {
+      "name": "黑暗路基艾尔",
+      "icon": "/uploadfile/upload/2023110713552070.png",
+      "localIcon": "images/attributes/2023110713552070.png"
+    },
+    "specialMove": {
+      "name": "黑暗路基艾尔射击",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713552094.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110713552094.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713552010.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110713552010.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713552042.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110713552042.png"
+      }
+    ],
+    "id": "BZ1-009",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-009.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-010",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023110713531239.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特拉菲扎",
+    "hp": 10,
+    "attack": 13,
+    "speed": 5,
+    "attribute": {
+      "name": "特拉菲扎",
+      "icon": "/uploadfile/upload/2023110713531231.png",
+      "localIcon": "images/attributes/2023110713531231.png"
+    },
+    "specialMove": {
+      "name": "TR大型冲击炮",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713531211.png",
+        "name": "特拉菲扎",
+        "localIcon": "images/skills/2023110713531211.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713531270.png",
+        "name": "特拉菲扎",
+        "localIcon": "images/skills/2023110713531270.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713531241.png",
+        "name": "特拉菲扎",
+        "localIcon": "images/skills/2023110713531241.png"
+      }
+    ],
+    "id": "BZ1-010",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-010.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-011",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713504548.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "布莱泽奥特曼",
+    "hp": 5,
+    "attack": 9,
+    "speed": 10,
+    "attribute": {
+      "name": "布莱泽奥特曼",
+      "icon": "/uploadfile/upload/2023110713504567.png",
+      "localIcon": "images/attributes/2023110713504567.png"
+    },
+    "specialMove": {
+      "name": "螺旋光矛",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713504519.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110713504519.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714302716.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110714302716.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713504573.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110713504573.png"
+      }
+    ],
+    "id": "BZ1-011",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-011.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-012",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713482845.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿斯加隆",
+    "hp": 10,
+    "attack": 10,
+    "speed": 4,
+    "attribute": {
+      "name": "阿斯加隆",
+      "icon": "/uploadfile/upload/2023110713482861.png",
+      "localIcon": "images/attributes/2023110713482861.png"
+    },
+    "specialMove": {
+      "name": "阿斯火焰",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713482855.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110713482855.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714370765.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110714370765.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713482890.png",
+        "name": "阿斯加隆",
+        "localIcon": "images/skills/2023110713482890.png"
+      }
+    ],
+    "id": "BZ1-012",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-012.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-013",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713443013.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼 强力型",
+    "hp": 8,
+    "attack": 10,
+    "speed": 5,
+    "attribute": {
+      "name": "迪迦奥特曼 强力型",
+      "icon": "/uploadfile/upload/2023110713443046.png",
+      "localIcon": "images/attributes/2023110713443046.png"
+    },
+    "specialMove": {
+      "name": "迪拉休姆光流",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713443039.png",
+        "name": "迪迦奥特曼 强力型",
+        "localIcon": "images/skills/2023110713443039.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713443034.png",
+        "name": "迪迦奥特曼 强力型",
+        "localIcon": "images/skills/2023110713443034.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713443047.png",
+        "name": "迪迦奥特曼 强力型",
+        "localIcon": "images/skills/2023110713443047.png"
+      }
+    ],
+    "id": "BZ1-013",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-013.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-014",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713382888.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼 强壮型",
+    "hp": 9,
+    "attack": 11,
+    "speed": 5,
+    "attribute": {
+      "name": "戴拿奥特曼 强壮型",
+      "icon": "/uploadfile/upload/2023110713382886.png",
+      "localIcon": "images/attributes/2023110713382886.png"
+    },
+    "specialMove": {
+      "name": "加尔奈特轰炸（吸收反射式）",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713382871.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2023110713382871.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713382873.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2023110713382873.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713382875.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2023110713382875.png"
+      }
+    ],
+    "id": "BZ1-014",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-014.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-015",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713360397.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼 空中型",
+    "hp": 5,
+    "attack": 7,
+    "speed": 11,
+    "attribute": {
+      "name": "迪迦奥特曼 空中型",
+      "icon": "/uploadfile/upload/2023110713360392.png",
+      "localIcon": "images/attributes/2023110713360392.png"
+    },
+    "specialMove": {
+      "name": "兰帕尔特光弹",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713360390.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023110713360390.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714303921.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023110714303921.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713360351.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023110713360351.png"
+      }
+    ],
+    "id": "BZ1-015",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-015.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-016",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713330956.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼 奇迹型",
+    "hp": 6,
+    "attack": 5,
+    "speed": 9,
+    "attribute": {
+      "name": "戴拿奥特曼 奇迹型",
+      "icon": "/uploadfile/upload/2023110713330979.png",
+      "localIcon": "images/attributes/2023110713330979.png"
+    },
+    "specialMove": {
+      "name": "立玻留姆光波",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713330957.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2023110713330957.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713330929.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2023110713330929.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713330985.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2023110713330985.png"
+      }
+    ],
+    "id": "BZ1-016",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-016.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-017",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713311820.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼（V2）",
+    "hp": 10,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "盖亚奥特曼（V2）",
+      "icon": "/uploadfile/upload/2023110713311814.png",
+      "localIcon": "images/attributes/2023110713311814.png"
+    },
+    "specialMove": {
+      "name": "量子流线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713311832.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023110713311832.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713311892.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023110713311892.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713311813.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023110713311813.png"
+      }
+    ],
+    "id": "BZ1-017",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-017.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-018",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713241776.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼（V2）",
+    "hp": 6,
+    "attack": 6,
+    "speed": 9,
+    "attribute": {
+      "name": "阿古茹奥特曼（V2）",
+      "icon": "/uploadfile/upload/2023110713241752.png",
+      "localIcon": "images/attributes/2023110713241752.png"
+    },
+    "specialMove": {
+      "name": "阿古茹流线",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713241772.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023110713241772.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713241783.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023110713241783.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713241742.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023110713241742.png"
+      }
+    ],
+    "id": "BZ1-018",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-018.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-019",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713210569.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "高斯奥特曼 未来形态",
+    "hp": 5,
+    "attack": 7,
+    "speed": 8,
+    "attribute": {
+      "name": "高斯奥特曼 未来形态",
+      "icon": "/uploadfile/upload/2023110713210583.png",
+      "localIcon": "images/attributes/2023110713210583.png"
+    },
+    "specialMove": {
+      "name": "高斯重击",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713210576.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023110713210576.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713210526.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023110713210526.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713210547.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023110713210547.png"
+      }
+    ],
+    "id": "BZ1-019",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-019.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-020",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713130431.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "杰斯提斯奥特曼 强力形态",
+    "hp": 6,
+    "attack": 10,
+    "speed": 6,
+    "attribute": {
+      "name": "杰斯提斯奥特曼 强力形态",
+      "icon": "/uploadfile/upload/2023110713130434.png",
+      "localIcon": "images/attributes/2023110713130434.png"
+    },
+    "specialMove": {
+      "name": "达古流姆光线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713130482.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2023110713130482.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713130414.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2023110713130414.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713130443.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2023110713130443.png"
+      }
+    ],
+    "id": "BZ1-020",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-020.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-021",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713102893.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 7,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2023110713102818.png",
+      "localIcon": "images/attributes/2023110713102818.png"
+    },
+    "specialMove": {
+      "name": "银河加农",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713102819.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110713102819.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713102828.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110713102828.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713102894.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110713102894.png"
+      }
+    ],
+    "id": "BZ1-021",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-021.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-022",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713071859.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "利布特奥特曼",
+    "hp": 9,
+    "attack": 8,
+    "speed": 6,
+    "attribute": {
+      "name": "利布特奥特曼",
+      "icon": "/uploadfile/upload/2023110713071831.png",
+      "localIcon": "images/attributes/2023110713071831.png"
+    },
+    "specialMove": {
+      "name": "加拉克西乌姆光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714375387.png",
+        "name": "利布特奥特曼",
+        "localIcon": "images/skills/2023110714375387.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713071848.png",
+        "name": "利布特奥特曼"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713071827.png",
+        "name": "利布特奥特曼",
+        "localIcon": "images/skills/2023110713071827.png"
+      }
+    ],
+    "id": "BZ1-022",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-022.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-023",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713041865.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼",
+    "hp": 9,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "梦比优斯奥特曼",
+      "icon": "/uploadfile/upload/2023110713041873.png",
+      "localIcon": "images/attributes/2023110713041873.png"
+    },
+    "specialMove": {
+      "name": "梦比姆射线",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110713041858.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023110713041858.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713041899.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023110713041899.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713041898.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023110713041898.png"
+      }
+    ],
+    "id": "BZ1-023",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-023.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-024",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110713003750.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希卡利奥特曼",
+    "hp": 5,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "希卡利奥特曼",
+      "icon": "/uploadfile/upload/2023110713003781.png",
+      "localIcon": "images/attributes/2023110713003781.png"
+    },
+    "specialMove": {
+      "name": "骑士射线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714382779.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023110714382779.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110713003724.png",
+        "name": "希卡利奥特曼"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110713003741.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023110713003741.png"
+      }
+    ],
+    "id": "BZ1-024",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-024.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-025",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110712565187.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "哥尔赞",
+    "hp": 11,
+    "attack": 10,
+    "speed": 4,
+    "attribute": {
+      "name": "哥尔赞",
+      "icon": "/uploadfile/upload/2023110712565192.png",
+      "localIcon": "images/attributes/2023110712565192.png"
+    },
+    "specialMove": {
+      "name": "超音速头槌击",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712565144.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2023110712565144.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714305643.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2023110714305643.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712565121.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2023110712565121.png"
+      }
+    ],
+    "id": "BZ1-025",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-025.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-026",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023110712550626.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "美尔巴",
+    "hp": 4,
+    "attack": 9,
+    "speed": 11,
+    "attribute": {
+      "name": "美尔巴",
+      "icon": "/uploadfile/upload/2023110712550616.png",
+      "localIcon": "images/attributes/2023110712550616.png"
+    },
+    "specialMove": {
+      "name": "美尔巴尼克雷",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712550610.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2023110712550610.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714310464.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2023110714310464.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712550697.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2023110712550697.png"
+      }
+    ],
+    "id": "BZ1-026",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-026.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-027",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712402783.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "布莱泽奥特曼",
+    "hp": 5,
+    "attack": 10,
+    "speed": 7,
+    "attribute": {
+      "name": "布莱泽奥特曼",
+      "icon": "/uploadfile/upload/2023110712402794.png",
+      "localIcon": "images/attributes/2023110712402794.png"
+    },
+    "specialMove": {
+      "name": "螺旋光矛",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712402755.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110712402755.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110714311171.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110714311171.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712402724.png",
+        "name": "布莱泽奥特曼",
+        "localIcon": "images/skills/2023110712402724.png"
+      }
+    ],
+    "id": "BZ1-027",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-027.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-028",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712384581.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼 无限形态",
+    "hp": 4,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "梦比优斯奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2023110712384594.png",
+      "localIcon": "images/attributes/2023110712384594.png"
+    },
+    "specialMove": {
+      "name": "无限光刃",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714390576.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110714390576.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712384511.png",
+        "name": "梦比优斯奥特曼 无限形态"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712384516.png",
+        "name": "梦比优斯奥特曼 无限形态",
+        "localIcon": "images/skills/2023110712384516.png"
+      }
+    ],
+    "id": "BZ1-028",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-028.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-029",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712354289.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼",
+    "hp": 6,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "迪迦奥特曼",
+      "icon": "/uploadfile/upload/2023110712354238.png",
+      "localIcon": "images/attributes/2023110712354238.png"
+    },
+    "specialMove": {
+      "name": "迪迦切割",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712354277.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110712354277.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712354269.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110712354269.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712354216.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023110712354216.png"
+      }
+    ],
+    "id": "BZ1-029",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-029.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-030",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712334589.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼",
+    "hp": 5,
+    "attack": 9,
+    "speed": 5,
+    "attribute": {
+      "name": "戴拿奥特曼",
+      "icon": "/uploadfile/upload/2023110712334517.png",
+      "localIcon": "images/attributes/2023110712334517.png"
+    },
+    "specialMove": {
+      "name": "闪亮光刀",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712334577.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023110712334577.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712334568.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023110712334568.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712334536.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023110712334536.png"
+      }
+    ],
+    "id": "BZ1-030",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-030.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-031",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712320516.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼",
+    "hp": 8,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "盖亚奥特曼",
+      "icon": "/uploadfile/upload/2023110712320530.png",
+      "localIcon": "images/attributes/2023110712320530.png"
+    },
+    "specialMove": {
+      "name": "光子冰刀",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712320514.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2023110712320514.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712320577.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2023110712320577.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712320599.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2023110712320599.png"
+      }
+    ],
+    "id": "BZ1-031",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-031.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-032",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712280066.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 8,
+    "attribute": {
+      "name": "阿古茹奥特曼",
+      "icon": "/uploadfile/upload/2023110712280092.png",
+      "localIcon": "images/attributes/2023110712280092.png"
+    },
+    "specialMove": {
+      "name": "光子碎击",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712280040.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2023110712280040.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712280096.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2023110712280096.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712280014.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2023110712280014.png"
+      }
+    ],
+    "id": "BZ1-032",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-032.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-033",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712240943.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "高斯奥特曼",
+    "hp": 10,
+    "attack": 4,
+    "speed": 6,
+    "attribute": {
+      "name": "高斯奥特曼",
+      "icon": "/uploadfile/upload/2023110712240980.png",
+      "localIcon": "images/attributes/2023110712240980.png"
+    },
+    "specialMove": {
+      "name": "月神净化",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712240992.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2023110712240992.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712240932.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2023110712240932.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712240964.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2023110712240964.png"
+      }
+    ],
+    "id": "BZ1-033",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-033.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-034",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110712193311.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "杰斯提斯奥特曼",
+    "hp": 5,
+    "attack": 8,
+    "speed": 5,
+    "attribute": {
+      "name": "杰斯提斯奥特曼",
+      "icon": "/uploadfile/upload/2023110712193312.png",
+      "localIcon": "images/attributes/2023110712193312.png"
+    },
+    "specialMove": {
+      "name": "比库托流姆光线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110712193359.png",
+        "name": "杰斯提斯奥特曼",
+        "localIcon": "images/skills/2023110712193359.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110712193343.png",
+        "name": "杰斯提斯奥特曼",
+        "localIcon": "images/skills/2023110712193343.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110712193337.png",
+        "name": "杰斯提斯奥特曼",
+        "localIcon": "images/skills/2023110712193337.png"
+      }
+    ],
+    "id": "BZ1-034",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-034.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-035",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711274316.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奈克赛斯奥特曼 成年形态",
+    "hp": 6,
+    "attack": 8,
+    "speed": 6,
+    "attribute": {
+      "name": "奈克赛斯奥特曼 成年形态",
+      "icon": "/uploadfile/upload/2023110711274346.png",
+      "localIcon": "images/attributes/2023110711274346.png"
+    },
+    "specialMove": {
+      "name": "粒子光之羽",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711274357.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023110711274357.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711274340.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023110711274340.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711274397.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023110711274397.png"
+      }
+    ],
+    "id": "BZ1-035",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-035.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-036",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711251433.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 5,
+    "attack": 8,
+    "speed": 8,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2023110711251481.png",
+      "localIcon": "images/attributes/2023110711251481.png"
+    },
+    "specialMove": {
+      "name": "麦克修姆飞镖",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711251473.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110711251473.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711251476.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110711251476.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711251452.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023110711251452.png"
+      }
+    ],
+    "id": "BZ1-036",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-036.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-037",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711190917.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼",
+    "hp": 6,
+    "attack": 7,
+    "speed": 5,
+    "attribute": {
+      "name": "梦比优斯奥特曼",
+      "icon": "/uploadfile/upload/2023110711190986.png",
+      "localIcon": "images/attributes/2023110711190986.png"
+    },
+    "specialMove": {
+      "name": "梦比姆光剑",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110714394192.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023110714394192.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711190996.png",
+        "name": "梦比优斯奥特曼"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711190927.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023110711190927.png"
+      }
+    ],
+    "id": "BZ1-037",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-037.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-038",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711171584.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希卡利奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 9,
+    "attribute": {
+      "name": "希卡利奥特曼",
+      "icon": "/uploadfile/upload/2023110711171556.png",
+      "localIcon": "images/attributes/2023110711171556.png"
+    },
+    "specialMove": {
+      "name": "骑士光束剑",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711171564.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023110711171564.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711171570.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023110711171570.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711171598.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023110711171598.png"
+      }
+    ],
+    "id": "BZ1-038",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-038.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-039",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711152726.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "利布特奥特曼",
+    "hp": 8,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "利布特奥特曼",
+      "icon": "/uploadfile/upload/2023110711152780.png",
+      "localIcon": "images/attributes/2023110711152780.png"
+    },
+    "specialMove": {
+      "name": "加拉克西乌姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711152763.png",
+        "name": "利布特奥特曼",
+        "localIcon": "images/skills/2023110711152763.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711152792.png",
+        "name": "利布特奥特曼",
+        "localIcon": "images/skills/2023110711152792.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711152776.png",
+        "name": "利布特奥特曼",
+        "localIcon": "images/skills/2023110711152776.png"
+      }
+    ],
+    "id": "BZ1-039",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-039.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-040",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711074849.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "帝纳斯奥特曼",
+    "hp": 4,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "帝纳斯奥特曼",
+      "icon": "/uploadfile/upload/2023110711074868.png",
+      "localIcon": "images/attributes/2023110711074868.png"
+    },
+    "specialMove": {
+      "name": "帝纳升焰拳",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711074893.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023110711074893.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711074885.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023110711074885.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711074872.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023110711074872.png"
+      }
+    ],
+    "id": "BZ1-040",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-040.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-041",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711052514.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷古洛思奥特曼",
+    "hp": 5,
+    "attack": 9,
+    "speed": 7,
+    "attribute": {
+      "name": "雷古洛思奥特曼",
+      "icon": "/uploadfile/upload/2023110711052540.png",
+      "localIcon": "images/attributes/2023110711052540.png"
+    },
+    "specialMove": {
+      "name": "白虎赤龙弹",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711052519.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023110711052519.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711052595.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023110711052595.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711052520.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023110711052520.png"
+      }
+    ],
+    "id": "BZ1-041",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-041.png"
+    }
+  },
+  {
+    "cardNum": "BZ1-042",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023110711005792.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "黑暗路基艾尔",
+    "hp": 3,
+    "attack": 9,
+    "speed": 5,
+    "attribute": {
+      "name": "黑暗路基艾尔",
+      "icon": "/uploadfile/upload/2023110711005715.png",
+      "localIcon": "images/attributes/2023110711005715.png"
+    },
+    "specialMove": {
+      "name": "黑暗路基艾尔射击",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023110711005711.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110711005711.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023110711005763.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110711005763.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023110711005766.png",
+        "name": "黑暗路基艾尔",
+        "localIcon": "images/skills/2023110711005766.png"
+      }
+    ],
+    "id": "BZ1-042",
+    "set": {
+      "id": "39",
+      "name": "激斗流星 第一弹",
+      "series": "激斗流星"
+    },
+    "images": {
+      "card": "images/cards/BZ1-042.png"
+    }
+  }
+]

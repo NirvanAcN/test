@@ -1,0 +1,2306 @@
+[
+  {
+    "cardNum": "J3-001",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012422292.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 德尔塔天爪",
+    "hp": 7,
+    "attack": 11,
+    "speed": 7,
+    "attribute": {
+      "name": "泽塔奥特曼 德尔塔天爪",
+      "icon": "/uploadfile/upload/2021123012020126.png",
+      "localIcon": "images/attributes/2021123012020126.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆獠牙",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123012020130.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123012020130.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012561719.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123012561719.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123012020198.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123012020198.png"
+      }
+    ],
+    "id": "J3-001",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-001.png"
+    }
+  },
+  {
+    "cardNum": "J3-002",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012423027.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 守护形态",
+    "hp": 8,
+    "attack": 10,
+    "speed": 8,
+    "attribute": {
+      "name": "捷德奥特曼 守护形态",
+      "icon": "/uploadfile/upload/2021123012002462.png",
+      "localIcon": "images/attributes/2021123012002462.png"
+    },
+    "specialMove": {
+      "name": "超级屏障重击",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123012002468.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123012002468.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012002443.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123012002443.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123012002470.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123012002470.png"
+      }
+    ],
+    "id": "J3-002",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-002.png"
+    }
+  },
+  {
+    "cardNum": "J3-003",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012424098.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 原生形态",
+    "hp": 7,
+    "attack": 8,
+    "speed": 8,
+    "attribute": {
+      "name": "欧布奥特曼 原生形态",
+      "icon": "/uploadfile/upload/2021123011583969.png",
+      "localIcon": "images/attributes/2021123011583969.png"
+    },
+    "specialMove": {
+      "name": "欧布至高圣剑 欧利吉姆银河",
+      "value": 12
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011583951.png",
+        "name": "欧布奥特曼 原生形态",
+        "localIcon": "images/skills/2021123011583951.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011583964.png",
+        "name": "欧布奥特曼 原生形态",
+        "localIcon": "images/skills/2021123011583964.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011583945.png",
+        "name": "欧布奥特曼 原生形态",
+        "localIcon": "images/skills/2021123011583945.png"
+      }
+    ],
+    "id": "J3-003",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-003.png"
+    }
+  },
+  {
+    "cardNum": "J3-004",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012425248.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 原始形态",
+    "hp": 8,
+    "attack": 9,
+    "speed": 7,
+    "attribute": {
+      "name": "捷德奥特曼 原始形态",
+      "icon": "/uploadfile/upload/2021123011571129.png",
+      "localIcon": "images/attributes/2021123011571129.png"
+    },
+    "specialMove": {
+      "name": "捷德之证",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011571165.png",
+        "name": "捷德奥特曼 原始形态",
+        "localIcon": "images/skills/2021123011571165.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011571169.png",
+        "name": "捷德奥特曼 原始形态",
+        "localIcon": "images/skills/2021123011571169.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011571143.png",
+        "name": "捷德奥特曼 原始形态",
+        "localIcon": "images/skills/2021123011571143.png"
+      }
+    ],
+    "id": "J3-004",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-004.png"
+    }
+  },
+  {
+    "cardNum": "J3-005",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012430948.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼 无限形态",
+    "hp": 9,
+    "attack": 7,
+    "speed": 9,
+    "attribute": {
+      "name": "赛罗奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2021123011552041.png",
+      "localIcon": "images/attributes/2021123011552041.png"
+    },
+    "specialMove": {
+      "name": "双重究极必杀剑",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011552053.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123011552053.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011552088.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123011552088.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011552083.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123011552083.png"
+      }
+    ],
+    "id": "J3-005",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-005.png"
+    }
+  },
+  {
+    "cardNum": "J3-006",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012431924.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "罗索奥特曼 烈火形态",
+    "hp": 7,
+    "attack": 12,
+    "speed": 8,
+    "attribute": {
+      "name": "罗索奥特曼 烈火形态",
+      "icon": "/uploadfile/upload/2021123011534792.png",
+      "localIcon": "images/attributes/2021123011534792.png"
+    },
+    "specialMove": {
+      "name": "烈火爆球击",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011534758.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2021123011534758.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011534746.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2021123011534746.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011534738.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2021123011534738.png"
+      }
+    ],
+    "id": "J3-006",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-006.png"
+    }
+  },
+  {
+    "cardNum": "J3-007",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012432818.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "布鲁奥特曼 跃水形态",
+    "hp": 6,
+    "attack": 9,
+    "speed": 10,
+    "attribute": {
+      "name": "布鲁奥特曼 跃水形态",
+      "icon": "/uploadfile/upload/2021123011522222.png",
+      "localIcon": "images/attributes/2021123011522222.png"
+    },
+    "specialMove": {
+      "name": "跃水斯特流姆光线",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011522246.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2021123011522246.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011522215.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2021123011522215.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011522293.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2021123011522293.png"
+      }
+    ],
+    "id": "J3-007",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-007.png"
+    }
+  },
+  {
+    "cardNum": "J3-008",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012433667.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奥特黑暗杀手",
+    "hp": 7,
+    "attack": 12,
+    "speed": 9,
+    "attribute": {
+      "name": "奥特黑暗杀手",
+      "icon": "/uploadfile/upload/2021123011504943.png",
+      "localIcon": "images/attributes/2021123011504943.png"
+    },
+    "specialMove": {
+      "name": "黑暗杀手射线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011504955.png",
+        "name": "奥特黑暗杀手",
+        "localIcon": "images/skills/2021123011504955.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011504964.png",
+        "name": "奥特黑暗杀手",
+        "localIcon": "images/skills/2021123011504964.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011504952.png",
+        "name": "奥特黑暗杀手",
+        "localIcon": "images/skills/2021123011504952.png"
+      }
+    ],
+    "id": "J3-008",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-008.png"
+    }
+  },
+  {
+    "cardNum": "J3-009",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012434943.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "黑暗战士赛罗",
+    "hp": 6,
+    "attack": 10,
+    "speed": 10,
+    "attribute": {
+      "name": "黑暗战士赛罗",
+      "icon": "/uploadfile/upload/2021123015451268.png",
+      "localIcon": "images/attributes/2021123015451268.png"
+    },
+    "specialMove": {
+      "name": "黑暗赛罗双射线",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022010417040039.png",
+        "name": "黑暗战士赛罗",
+        "localIcon": "images/skills/2022010417040039.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012565157.png",
+        "name": "黑暗战士赛罗",
+        "localIcon": "images/skills/2021123012565157.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011492970.png",
+        "name": "黑暗战士赛罗",
+        "localIcon": "images/skills/2021123011492970.png"
+      }
+    ],
+    "id": "J3-009",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-009.png"
+    }
+  },
+  {
+    "cardNum": "J3-010",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2021123012435925.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "黑暗战士欧布",
+    "hp": 9,
+    "attack": 9,
+    "speed": 9,
+    "attribute": {
+      "name": "黑暗战士欧布",
+      "icon": "/uploadfile/upload/2021123011475929.png",
+      "localIcon": "images/attributes/2021123011475929.png"
+    },
+    "specialMove": {
+      "name": "黑暗欧布至高圣剑",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011475968.png",
+        "name": "黑暗战士欧布",
+        "localIcon": "images/skills/2021123011475968.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012570251.png",
+        "name": "黑暗战士欧布",
+        "localIcon": "images/skills/2021123012570251.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011475943.png",
+        "name": "黑暗战士欧布",
+        "localIcon": "images/skills/2021123011475943.png"
+      }
+    ],
+    "id": "J3-010",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-010.png"
+    }
+  },
+  {
+    "cardNum": "J3-011",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012441166.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河维克特利奥特曼",
+    "hp": 7,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "银河维克特利奥特曼",
+      "icon": "/uploadfile/upload/2021123011462536.png",
+      "localIcon": "images/attributes/2021123011462536.png"
+    },
+    "specialMove": {
+      "name": "奥特融合射线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011462568.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2021123011462568.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011462587.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2021123011462587.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011462584.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2021123011462584.png"
+      }
+    ],
+    "id": "J3-011",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-011.png"
+    }
+  },
+  {
+    "cardNum": "J3-012",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012442147.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "艾克斯奥特曼 超越形态",
+    "hp": 6,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "艾克斯奥特曼 超越形态",
+      "icon": "/uploadfile/upload/2021123011443721.png",
+      "localIcon": "images/attributes/2021123011443721.png"
+    },
+    "specialMove": {
+      "name": "超越艾克斯切割",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011443768.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2021123011443768.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011443756.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2021123011443756.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011443765.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2021123011443765.png"
+      }
+    ],
+    "id": "J3-012",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-012.png"
+    }
+  },
+  {
+    "cardNum": "J3-013",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012442927.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 欧布三重形态",
+    "hp": 7,
+    "attack": 8,
+    "speed": 6,
+    "attribute": {
+      "name": "欧布奥特曼 欧布三重形态",
+      "icon": "/uploadfile/upload/2021123011422881.png",
+      "localIcon": "images/attributes/2021123011422881.png"
+    },
+    "specialMove": {
+      "name": "三位一体光环",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011422833.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2021123011422833.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012572016.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2021123012572016.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011422814.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2021123011422814.png"
+      }
+    ],
+    "id": "J3-013",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-013.png"
+    }
+  },
+  {
+    "cardNum": "J3-014",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012443912.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼 无限形态",
+    "hp": 8,
+    "attack": 5,
+    "speed": 7,
+    "attribute": {
+      "name": "赛罗奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2021123011395062.png",
+      "localIcon": "images/attributes/2021123011395062.png"
+    },
+    "specialMove": {
+      "name": "八重破坏光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011395053.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123011395053.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012580842.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123012580842.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011395044.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2021123011395044.png"
+      }
+    ],
+    "id": "J3-014",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-014.png"
+    }
+  },
+  {
+    "cardNum": "J3-015",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012444726.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 尊皇形态",
+    "hp": 7,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "捷德奥特曼 尊皇形态",
+      "icon": "/uploadfile/upload/2021123011381619.png",
+      "localIcon": "images/attributes/2021123011381619.png"
+    },
+    "specialMove": {
+      "name": "皇家终结",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011381644.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2021123011381644.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012583048.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2021123012583048.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011381668.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2021123011381668.png"
+      }
+    ],
+    "id": "J3-015",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-015.png"
+    }
+  },
+  {
+    "cardNum": "J3-016",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012445846.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "格罗布奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "格罗布奥特曼",
+      "icon": "/uploadfile/upload/2021123011361944.png",
+      "localIcon": "images/attributes/2021123011361944.png"
+    },
+    "specialMove": {
+      "name": "格罗布奇迹光线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011361982.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2021123011361982.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011361967.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2021123011361967.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011361951.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2021123011361951.png"
+      }
+    ],
+    "id": "J3-016",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-016.png"
+    }
+  },
+  {
+    "cardNum": "J3-017",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012450985.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "令迦奥特曼",
+    "hp": 5,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "令迦奥特曼",
+      "icon": "/uploadfile/upload/2021123011344535.png",
+      "localIcon": "images/attributes/2021123011344535.png"
+    },
+    "specialMove": {
+      "name": "令迦光子冲击",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011344587.png",
+        "name": "令迦奥特曼",
+        "localIcon": "images/skills/2021123011344587.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011344561.png",
+        "name": "令迦奥特曼",
+        "localIcon": "images/skills/2021123011344561.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011344568.png",
+        "name": "令迦奥特曼",
+        "localIcon": "images/skills/2021123011344568.png"
+      }
+    ],
+    "id": "J3-017",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-017.png"
+    }
+  },
+  {
+    "cardNum": "J3-018",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2021123012451686.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "极恶贝利亚",
+    "hp": 5,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "极恶贝利亚",
+      "icon": "/uploadfile/upload/2021123011323656.png",
+      "localIcon": "images/attributes/2021123011323656.png"
+    },
+    "specialMove": {
+      "name": "极恶爆裂",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011323614.png",
+        "name": "极恶贝利亚",
+        "localIcon": "images/skills/2021123011323614.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012584743.png",
+        "name": "极恶贝利亚",
+        "localIcon": "images/skills/2021123012584743.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011323696.png",
+        "name": "极恶贝利亚",
+        "localIcon": "images/skills/2021123011323696.png"
+      }
+    ],
+    "id": "J3-018",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-018.png"
+    }
+  },
+  {
+    "cardNum": "J3-019",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012452548.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 阿尔法装甲",
+    "hp": 6,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "泽塔奥特曼 阿尔法装甲",
+      "icon": "/uploadfile/upload/2021123011295035.png",
+      "localIcon": "images/attributes/2021123011295035.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆波动",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123013540037.png",
+        "name": "泽塔奥特曼 阿尔法装甲",
+        "localIcon": "images/skills/2021123013540037.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011295079.png",
+        "name": "泽塔奥特曼 阿尔法装甲",
+        "localIcon": "images/skills/2021123011295079.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011295080.png",
+        "name": "泽塔奥特曼 阿尔法装甲",
+        "localIcon": "images/skills/2021123011295080.png"
+      }
+    ],
+    "id": "J3-019",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-019.png"
+    }
+  },
+  {
+    "cardNum": "J3-020",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012455057.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 贝塔冲击",
+    "hp": 2,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "泽塔奥特曼 贝塔冲击",
+      "icon": "/uploadfile/upload/2021123011280425.png",
+      "localIcon": "images/attributes/2021123011280425.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆升龙拳",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011280411.png",
+        "name": "泽塔奥特曼 贝塔冲击",
+        "localIcon": "images/skills/2021123011280411.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011280493.png",
+        "name": "泽塔奥特曼 贝塔冲击",
+        "localIcon": "images/skills/2021123011280493.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011280423.png",
+        "name": "泽塔奥特曼 贝塔冲击",
+        "localIcon": "images/skills/2021123011280423.png"
+      }
+    ],
+    "id": "J3-020",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-020.png"
+    }
+  },
+  {
+    "cardNum": "J3-021",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012460496.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 伽马未来",
+    "hp": 7,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "泽塔奥特曼 伽马未来",
+      "icon": "/uploadfile/upload/2021123011263744.png",
+      "localIcon": "images/attributes/2021123011263744.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆穿刺",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011263766.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2021123011263766.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011263779.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2021123011263779.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011263736.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2021123011263736.png"
+      }
+    ],
+    "id": "J3-021",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-021.png"
+    }
+  },
+  {
+    "cardNum": "J3-022",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012453856.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 银河初升",
+    "hp": 5,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "捷德奥特曼 银河初升",
+      "icon": "/uploadfile/upload/2021123011250675.png",
+      "localIcon": "images/attributes/2021123011250675.png"
+    },
+    "specialMove": {
+      "name": "凤凰冲击波",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011250656.png",
+        "name": "捷德奥特曼 银河初升",
+        "localIcon": "images/skills/2021123011250656.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011250689.png",
+        "name": "捷德奥特曼 银河初升",
+        "localIcon": "images/skills/2021123011250689.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011250636.png",
+        "name": "捷德奥特曼 银河初升",
+        "localIcon": "images/skills/2021123011250636.png"
+      }
+    ],
+    "id": "J3-022",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-022.png"
+    }
+  },
+  {
+    "cardNum": "J3-023",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012461435.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "闪耀迪迦",
+    "hp": 4,
+    "attack": 4,
+    "speed": 7,
+    "attribute": {
+      "name": "闪耀迪迦",
+      "icon": "/uploadfile/upload/2021123011232975.png",
+      "localIcon": "images/attributes/2021123011232975.png"
+    },
+    "specialMove": {
+      "name": "闪耀时光闪电",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011232917.png",
+        "name": "闪耀迪迦",
+        "localIcon": "images/skills/2021123011232917.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012590568.png",
+        "name": "闪耀迪迦",
+        "localIcon": "images/skills/2021123012590568.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011232954.png",
+        "name": "闪耀迪迦",
+        "localIcon": "images/skills/2021123011232954.png"
+      }
+    ],
+    "id": "J3-023",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-023.png"
+    }
+  },
+  {
+    "cardNum": "J3-024",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012462136.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼 强壮型",
+    "hp": 8,
+    "attack": 10,
+    "speed": 2,
+    "attribute": {
+      "name": "戴拿奥特曼 强壮型",
+      "icon": "/uploadfile/upload/2021123011212852.png",
+      "localIcon": "images/attributes/2021123011212852.png"
+    },
+    "specialMove": {
+      "name": "加尔奈特轰炸（吸收反射式）",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011212875.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2021123011212875.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012592561.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2021123012592561.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011212888.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2021123011212888.png"
+      }
+    ],
+    "id": "J3-024",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-024.png"
+    }
+  },
+  {
+    "cardNum": "J3-025",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012463469.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼 至高形态",
+    "hp": 5,
+    "attack": 7,
+    "speed": 5,
+    "attribute": {
+      "name": "盖亚奥特曼 至高形态",
+      "icon": "/uploadfile/upload/2021123011191884.png",
+      "localIcon": "images/attributes/2021123011191884.png"
+    },
+    "specialMove": {
+      "name": "光子流线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011191830.png",
+        "name": "盖亚奥特曼 至高形态",
+        "localIcon": "images/skills/2021123011191830.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011191875.png",
+        "name": "盖亚奥特曼 至高形态",
+        "localIcon": "images/skills/2021123011191875.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011191824.png",
+        "name": "盖亚奥特曼 至高形态",
+        "localIcon": "images/skills/2021123011191824.png"
+      }
+    ],
+    "id": "J3-025",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-025.png"
+    }
+  },
+  {
+    "cardNum": "J3-026",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012464726.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "高斯奥特曼",
+    "hp": 8,
+    "attack": 6,
+    "speed": 3,
+    "attribute": {
+      "name": "高斯奥特曼",
+      "icon": "/uploadfile/upload/2021123011174795.png",
+      "localIcon": "images/attributes/2021123011174795.png"
+    },
+    "specialMove": {
+      "name": "月光破坏光线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011174787.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2021123011174787.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011174723.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2021123011174723.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011174798.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2021123011174798.png"
+      }
+    ],
+    "id": "J3-026",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-026.png"
+    }
+  },
+  {
+    "cardNum": "J3-027",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012470139.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奈克赛斯奥特曼 成年形态",
+    "hp": 5,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "奈克赛斯奥特曼 成年形态",
+      "icon": "/uploadfile/upload/2021123011152662.png",
+      "localIcon": "images/attributes/2021123011152662.png"
+    },
+    "specialMove": {
+      "name": "粒子光之羽",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011152616.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2021123011152616.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011152668.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2021123011152668.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011152615.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2021123011152615.png"
+      }
+    ],
+    "id": "J3-027",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-027.png"
+    }
+  },
+  {
+    "cardNum": "J3-028",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012471336.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 6,
+    "attack": 4,
+    "speed": 9,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2021123011133820.png",
+      "localIcon": "images/attributes/2021123011133820.png"
+    },
+    "specialMove": {
+      "name": "麦克修姆飞镖",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011133889.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2021123011133889.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123012595562.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2021123012595562.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011133832.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2021123011133832.png"
+      }
+    ],
+    "id": "J3-028",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-028.png"
+    }
+  },
+  {
+    "cardNum": "J3-029",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012472882.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼 凤凰勇气形态",
+    "hp": 4,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "梦比优斯奥特曼 凤凰勇气形态",
+      "icon": "/uploadfile/upload/2021123011111120.png",
+      "localIcon": "images/attributes/2021123011111120.png"
+    },
+    "specialMove": {
+      "name": "梦比姆骑士射线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011111190.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2021123011111190.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011111114.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2021123011111114.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011111138.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2021123011111138.png"
+      }
+    ],
+    "id": "J3-029",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-029.png"
+    }
+  },
+  {
+    "cardNum": "J3-030",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012473737.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼 闪耀型",
+    "hp": 6,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "赛罗奥特曼 闪耀型",
+      "icon": "/uploadfile/upload/2021123011092969.png",
+      "localIcon": "images/attributes/2021123011092969.png"
+    },
+    "specialMove": {
+      "name": "闪耀赛罗艾梅利姆切割",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011092979.png",
+        "name": "赛罗奥特曼 闪耀型",
+        "localIcon": "images/skills/2021123011092979.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123013522830.png",
+        "name": "赛罗奥特曼 闪耀型",
+        "localIcon": "images/skills/2021123013522830.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011092981.png",
+        "name": "赛罗奥特曼 闪耀型",
+        "localIcon": "images/skills/2021123011092981.png"
+      }
+    ],
+    "id": "J3-030",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-030.png"
+    }
+  },
+  {
+    "cardNum": "J3-031",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012474741.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 虹刃形态",
+    "hp": 4,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "欧布奥特曼 虹刃形态",
+      "icon": "/uploadfile/upload/2021123011074830.png",
+      "localIcon": "images/attributes/2021123011074830.png"
+    },
+    "specialMove": {
+      "name": "梦比姆光剑",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011074850.png",
+        "name": "欧布奥特曼 虹刃形态",
+        "localIcon": "images/skills/2021123011074850.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011074874.png",
+        "name": "欧布奥特曼 虹刃形态",
+        "localIcon": "images/skills/2021123011074874.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011074872.png",
+        "name": "欧布奥特曼 虹刃形态",
+        "localIcon": "images/skills/2021123011074872.png"
+      }
+    ],
+    "id": "J3-031",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-031.png"
+    }
+  },
+  {
+    "cardNum": "J3-032",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012480849.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 勇进形态",
+    "hp": 7,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "捷德奥特曼 勇进形态",
+      "icon": "/uploadfile/upload/2021123011054254.png",
+      "localIcon": "images/attributes/2021123011054254.png"
+    },
+    "specialMove": {
+      "name": "火焰终极光波",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011054240.png",
+        "name": "捷德奥特曼 勇进形态",
+        "localIcon": "images/skills/2021123011054240.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011054249.png",
+        "name": "捷德奥特曼 勇进形态",
+        "localIcon": "images/skills/2021123011054249.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011054266.png",
+        "name": "捷德奥特曼 勇进形态",
+        "localIcon": "images/skills/2021123011054266.png"
+      }
+    ],
+    "id": "J3-032",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-032.png"
+    }
+  },
+  {
+    "cardNum": "J3-033",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012483042.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泰迦奥特曼 煜坤形态",
+    "hp": 7,
+    "attack": 7,
+    "speed": 3,
+    "attribute": {
+      "name": "泰迦奥特曼 煜坤形态",
+      "icon": "/uploadfile/upload/2021123011025638.png",
+      "localIcon": "images/attributes/2021123011025638.png"
+    },
+    "specialMove": {
+      "name": "黄金斯特利姆",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011025618.png",
+        "name": "泰迦奥特曼 煜坤形态",
+        "localIcon": "images/skills/2021123011025618.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123013003062.png",
+        "name": "泰迦奥特曼 煜坤形态",
+        "localIcon": "images/skills/2021123013003062.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011025662.png",
+        "name": "泰迦奥特曼 煜坤形态",
+        "localIcon": "images/skills/2021123011025662.png"
+      }
+    ],
+    "id": "J3-033",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-033.png"
+    }
+  },
+  {
+    "cardNum": "J3-034",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012483877.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "加坦杰厄",
+    "hp": 7,
+    "attack": 7,
+    "speed": 2,
+    "attribute": {
+      "name": "加坦杰厄",
+      "icon": "/uploadfile/upload/2021123011012954.png",
+      "localIcon": "images/attributes/2021123011012954.png"
+    },
+    "specialMove": {
+      "name": "石化光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123011012986.png",
+        "name": "加坦杰厄",
+        "localIcon": "images/skills/2021123011012986.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123011012977.png",
+        "name": "加坦杰厄",
+        "localIcon": "images/skills/2021123011012977.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123011012989.png",
+        "name": "加坦杰厄",
+        "localIcon": "images/skills/2021123011012989.png"
+      }
+    ],
+    "id": "J3-034",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-034.png"
+    }
+  },
+  {
+    "cardNum": "J3-035",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012484562.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "魔格终极贝利亚",
+    "hp": 6,
+    "attack": 8,
+    "speed": 3,
+    "attribute": {
+      "name": "魔格终极贝利亚",
+      "icon": "/uploadfile/upload/2021123010595670.png",
+      "localIcon": "images/attributes/2021123010595670.png"
+    },
+    "specialMove": {
+      "name": "魔格终极迪斯西姆",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010595656.png",
+        "name": "魔格终极贝利亚",
+        "localIcon": "images/skills/2021123010595656.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010595651.png",
+        "name": "魔格终极贝利亚",
+        "localIcon": "images/skills/2021123010595651.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010595612.png",
+        "name": "魔格终极贝利亚",
+        "localIcon": "images/skills/2021123010595612.png"
+      }
+    ],
+    "id": "J3-035",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-035.png"
+    }
+  },
+  {
+    "cardNum": "J3-036",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2021123012485387.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "贝姆芝顿",
+    "hp": 5,
+    "attack": 3,
+    "speed": 8,
+    "attribute": {
+      "name": "贝姆芝顿",
+      "icon": "/uploadfile/upload/2021123010581130.png",
+      "localIcon": "images/attributes/2021123010581130.png"
+    },
+    "specialMove": {
+      "name": "百万兆地狱",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010581129.png",
+        "name": "贝姆芝顿",
+        "localIcon": "images/skills/2021123010581129.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010581185.png",
+        "name": "贝姆芝顿",
+        "localIcon": "images/skills/2021123010581185.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010581158.png",
+        "name": "贝姆芝顿",
+        "localIcon": "images/skills/2021123010581158.png"
+      }
+    ],
+    "id": "J3-036",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-036.png"
+    }
+  },
+  {
+    "cardNum": "J3-037",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012490016.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 原始形态",
+    "hp": 5,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "泽塔奥特曼 原始形态",
+      "icon": "/uploadfile/upload/2021123010555687.png",
+      "localIcon": "images/attributes/2021123010555687.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010555691.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2021123010555691.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123013005259.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2021123013005259.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010555639.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2021123010555639.png"
+      }
+    ],
+    "id": "J3-037",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-037.png"
+    }
+  },
+  {
+    "cardNum": "J3-038",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012490735.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 德尔塔天爪",
+    "hp": 5,
+    "attack": 3,
+    "speed": 5,
+    "attribute": {
+      "name": "泽塔奥特曼 德尔塔天爪",
+      "icon": "/uploadfile/upload/2021123010511678.png",
+      "localIcon": "images/attributes/2021123010511678.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆獠牙",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010511674.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123010511674.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123013011630.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123013011630.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010511640.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2021123010511640.png"
+      }
+    ],
+    "id": "J3-038",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-038.png"
+    }
+  },
+  {
+    "cardNum": "J3-039",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012491595.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 西格玛爆破",
+    "hp": 5,
+    "attack": 4,
+    "speed": 6,
+    "attribute": {
+      "name": "泽塔奥特曼 西格玛爆破",
+      "icon": "/uploadfile/upload/2021123010485393.png",
+      "localIcon": "images/attributes/2021123010485393.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆爆裂光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010485367.png",
+        "name": "泽塔奥特曼 西格玛爆破",
+        "localIcon": "images/skills/2021123010485367.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010485332.png",
+        "name": "泽塔奥特曼 西格玛爆破",
+        "localIcon": "images/skills/2021123010485332.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010485398.png",
+        "name": "泽塔奥特曼 西格玛爆破",
+        "localIcon": "images/skills/2021123010485398.png"
+      }
+    ],
+    "id": "J3-039",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-039.png"
+    }
+  },
+  {
+    "cardNum": "J3-040",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012492459.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 守护形态",
+    "hp": 4,
+    "attack": 7,
+    "speed": 4,
+    "attribute": {
+      "name": "捷德奥特曼 守护形态",
+      "icon": "/uploadfile/upload/2021123010462555.png",
+      "localIcon": "images/attributes/2021123010462555.png"
+    },
+    "specialMove": {
+      "name": "超级屏障重击",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010462533.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123010462533.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010462570.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123010462570.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010462518.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2021123010462518.png"
+      }
+    ],
+    "id": "J3-040",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-040.png"
+    }
+  },
+  {
+    "cardNum": "J3-041",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012493514.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼 黑暗型",
+    "hp": 4,
+    "attack": 4,
+    "speed": 6,
+    "attribute": {
+      "name": "迪迦奥特曼 黑暗型",
+      "icon": "/uploadfile/upload/2021123010425838.png",
+      "localIcon": "images/attributes/2021123010425838.png"
+    },
+    "specialMove": {
+      "name": "暗黑突进",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010425878.png",
+        "name": "迪迦奥特曼 黑暗型",
+        "localIcon": "images/skills/2021123010425878.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010425894.png",
+        "name": "迪迦奥特曼 黑暗型",
+        "localIcon": "images/skills/2021123010425894.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010425836.png",
+        "name": "迪迦奥特曼 黑暗型",
+        "localIcon": "images/skills/2021123010425836.png"
+      }
+    ],
+    "id": "J3-041",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-041.png"
+    }
+  },
+  {
+    "cardNum": "J3-042",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012494555.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼（V2）",
+    "hp": 2,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "盖亚奥特曼（V2）",
+      "icon": "/uploadfile/upload/2021123010364421.png",
+      "localIcon": "images/attributes/2021123010364421.png"
+    },
+    "specialMove": {
+      "name": "盖亚冰雪",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010364478.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2021123010364478.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010364434.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2021123010364434.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010364499.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2021123010364499.png"
+      }
+    ],
+    "id": "J3-042",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-042.png"
+    }
+  },
+  {
+    "cardNum": "J3-043",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012495831.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼（V2）",
+    "hp": 3,
+    "attack": 4,
+    "speed": 4,
+    "attribute": {
+      "name": "阿古茹奥特曼（V2）",
+      "icon": "/uploadfile/upload/2021123010352611.png",
+      "localIcon": "images/attributes/2021123010352611.png"
+    },
+    "specialMove": {
+      "name": "阿古茹光弹",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010352667.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2021123010352667.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010352624.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2021123010352624.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010352630.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2021123010352630.png"
+      }
+    ],
+    "id": "J3-043",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-043.png"
+    }
+  },
+  {
+    "cardNum": "J3-044",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012501574.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "杰斯提斯奥特曼 强力形态",
+    "hp": 3,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "杰斯提斯奥特曼 强力形态",
+      "icon": "/uploadfile/upload/2021123010335588.png",
+      "localIcon": "images/attributes/2021123010335588.png"
+    },
+    "specialMove": {
+      "name": "粉碎高抬踢",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010335517.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2021123010335517.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010335541.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2021123010335541.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010335526.png",
+        "name": "杰斯提斯奥特曼 强力形态",
+        "localIcon": "images/skills/2021123010335526.png"
+      }
+    ],
+    "id": "J3-044",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-044.png"
+    }
+  },
+  {
+    "cardNum": "J3-045",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012502584.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希卡利奥特曼",
+    "hp": 4,
+    "attack": 5,
+    "speed": 7,
+    "attribute": {
+      "name": "希卡利奥特曼",
+      "icon": "/uploadfile/upload/2021123010321095.png",
+      "localIcon": "images/attributes/2021123010321095.png"
+    },
+    "specialMove": {
+      "name": "骑士光束剑",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010321044.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2021123010321044.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010321018.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2021123010321018.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010321074.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2021123010321074.png"
+      }
+    ],
+    "id": "J3-045",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-045.png"
+    }
+  },
+  {
+    "cardNum": "J3-046",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012504171.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "贝利亚奥特曼",
+    "hp": 4,
+    "attack": 5,
+    "speed": 3,
+    "attribute": {
+      "name": "贝利亚奥特曼",
+      "icon": "/uploadfile/upload/2021123010295119.png",
+      "localIcon": "images/attributes/2021123010295119.png"
+    },
+    "specialMove": {
+      "name": "贝利亚超雷鸣",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010295120.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2021123010295120.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010295111.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2021123010295111.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010295147.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2021123010295147.png"
+      }
+    ],
+    "id": "J3-046",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-046.png"
+    }
+  },
+  {
+    "cardNum": "J3-047",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012504873.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "终极赛罗",
+    "hp": 4,
+    "attack": 6,
+    "speed": 3,
+    "attribute": {
+      "name": "终极赛罗",
+      "icon": "/uploadfile/upload/2021123010280218.png",
+      "localIcon": "images/attributes/2021123010280218.png"
+    },
+    "specialMove": {
+      "name": "终极赛罗光刃",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010280247.png",
+        "name": "终极赛罗",
+        "localIcon": "images/skills/2021123010280247.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123010280245.png",
+        "name": "终极赛罗",
+        "localIcon": "images/skills/2021123010280245.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010280211.png",
+        "name": "终极赛罗",
+        "localIcon": "images/skills/2021123010280211.png"
+      }
+    ],
+    "id": "J3-047",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-047.png"
+    }
+  },
+  {
+    "cardNum": "J3-048",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2021123012505623.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 光刃形态",
+    "hp": 2,
+    "attack": 8,
+    "speed": 6,
+    "attribute": {
+      "name": "欧布奥特曼 光刃形态",
+      "icon": "/uploadfile/upload/2021123010261016.png",
+      "localIcon": "images/attributes/2021123010261016.png"
+    },
+    "specialMove": {
+      "name": "骑士光刃粉碎",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2021123010261046.png",
+        "name": "欧布奥特曼 光刃形态",
+        "localIcon": "images/skills/2021123010261046.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2021123013013820.png",
+        "name": "欧布奥特曼 光刃形态",
+        "localIcon": "images/skills/2021123013013820.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2021123010261023.png",
+        "name": "欧布奥特曼 光刃形态",
+        "localIcon": "images/skills/2021123010261023.png"
+      }
+    ],
+    "id": "J3-048",
+    "set": {
+      "id": "28",
+      "name": "炽热极限 第三弹",
+      "series": "炽热极限"
+    },
+    "images": {
+      "card": "images/cards/J3-048.png"
+    }
+  }
+]

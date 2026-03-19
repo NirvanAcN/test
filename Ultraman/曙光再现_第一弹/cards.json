@@ -1,0 +1,2305 @@
+[
+  {
+    "cardNum": "S1-001",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214174887.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼",
+    "hp": 7,
+    "attack": 8,
+    "speed": 9,
+    "attribute": {
+      "name": "特利迦奥特曼",
+      "icon": "/uploadfile/upload/2022051214174827.png",
+      "localIcon": "images/attributes/2022051214174827.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214174850.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051214174850.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215073442.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051215073442.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215073499.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051215073499.png"
+      }
+    ],
+    "id": "S1-001",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-001.png"
+    }
+  },
+  {
+    "cardNum": "S1-002",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214164911.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼 强力型",
+    "hp": 9,
+    "attack": 13,
+    "speed": 5,
+    "attribute": {
+      "name": "特利迦奥特曼 强力型",
+      "icon": "/uploadfile/upload/2022051214164923.png",
+      "localIcon": "images/attributes/2022051214164923.png"
+    },
+    "specialMove": {
+      "name": "迪拉休姆光流",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214164943.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051214164943.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215080793.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051215080793.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215080732.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051215080732.png"
+      }
+    ],
+    "id": "S1-002",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-002.png"
+    }
+  },
+  {
+    "cardNum": "S1-003",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214155589.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼 空中型",
+    "hp": 7,
+    "attack": 8,
+    "speed": 13,
+    "attribute": {
+      "name": "特利迦奥特曼 空中型",
+      "icon": "/uploadfile/upload/2022051214155562.png",
+      "localIcon": "images/attributes/2022051214155562.png"
+    },
+    "specialMove": {
+      "name": "兰帕尔特光弹",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214155559.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051214155559.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215083653.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051215083653.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215083626.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051215083626.png"
+      }
+    ],
+    "id": "S1-003",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-003.png"
+    }
+  },
+  {
+    "cardNum": "S1-004",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214145031.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼斯特利姆形态",
+    "hp": 8,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "银河奥特曼斯特利姆形态",
+      "icon": "/uploadfile/upload/2022051214145048.png",
+      "localIcon": "images/attributes/2022051214145048.png"
+    },
+    "specialMove": {
+      "name": "宇宙奇迹光线",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214145020.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051214145020.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051214145072.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051214145072.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051214145021.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051214145021.png"
+      }
+    ],
+    "id": "S1-004",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-004.png"
+    }
+  },
+  {
+    "cardNum": "S1-005",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214133244.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼 凤凰勇气形态",
+    "hp": 8,
+    "attack": 8,
+    "speed": 8,
+    "attribute": {
+      "name": "梦比优斯奥特曼 凤凰勇气形态",
+      "icon": "/uploadfile/upload/2022051214133242.png",
+      "localIcon": "images/attributes/2022051214133242.png"
+    },
+    "specialMove": {
+      "name": "梦比姆凤凰",
+      "value": 12
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214133220.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2022051214133220.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051214133287.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2022051214133287.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051214133261.png",
+        "name": "梦比优斯奥特曼 凤凰勇气形态",
+        "localIcon": "images/skills/2022051214133261.png"
+      }
+    ],
+    "id": "S1-005",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-005.png"
+    }
+  },
+  {
+    "cardNum": "S1-006",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214121514.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 德尔塔天爪",
+    "hp": 8,
+    "attack": 12,
+    "speed": 6,
+    "attribute": {
+      "name": "泽塔奥特曼 德尔塔天爪",
+      "icon": "/uploadfile/upload/2022051214121538.png",
+      "localIcon": "images/attributes/2022051214121538.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆闪光",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214121511.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2022051214121511.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051214121512.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2022051214121512.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051214121580.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2022051214121580.png"
+      }
+    ],
+    "id": "S1-006",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-006.png"
+    }
+  },
+  {
+    "cardNum": "S1-007",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214042848.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "卡露蜜拉",
+    "hp": 6,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "卡露蜜拉",
+      "icon": "/uploadfile/upload/2022051214042847.png",
+      "localIcon": "images/attributes/2022051214042847.png"
+    },
+    "specialMove": {
+      "name": "卡露蜜拉光鞭",
+      "value": 12
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214042854.png",
+        "name": "卡露蜜拉",
+        "localIcon": "images/skills/2022051214042854.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215091041.png",
+        "name": "卡露蜜拉",
+        "localIcon": "images/skills/2022051215091041.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215091098.png",
+        "name": "卡露蜜拉",
+        "localIcon": "images/skills/2022051215091098.png"
+      }
+    ],
+    "id": "S1-007",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-007.png"
+    }
+  },
+  {
+    "cardNum": "S1-008",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214022324.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "达阿贡",
+    "hp": 11,
+    "attack": 11,
+    "speed": 6,
+    "attribute": {
+      "name": "达阿贡",
+      "icon": "/uploadfile/upload/2022051214022336.png",
+      "localIcon": "images/attributes/2022051214022336.png"
+    },
+    "specialMove": {
+      "name": "火焰破碎机",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214022385.png",
+        "name": "达阿贡",
+        "localIcon": "images/skills/2022051214022385.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215093613.png",
+        "name": "达阿贡",
+        "localIcon": "images/skills/2022051215093613.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215093687.png",
+        "name": "达阿贡",
+        "localIcon": "images/skills/2022051215093687.png"
+      }
+    ],
+    "id": "S1-008",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-008.png"
+    }
+  },
+  {
+    "cardNum": "S1-009",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2022051214012768.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希多拉姆",
+    "hp": 5,
+    "attack": 10,
+    "speed": 13,
+    "attribute": {
+      "name": "希多拉姆",
+      "icon": "/uploadfile/upload/2022051214012789.png",
+      "localIcon": "images/attributes/2022051214012789.png"
+    },
+    "specialMove": {
+      "name": "希多拉斯特",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214012732.png",
+        "name": "希多拉姆",
+        "localIcon": "images/skills/2022051214012732.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215095270.png",
+        "name": "希多拉姆",
+        "localIcon": "images/skills/2022051215095270.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051215095257.png",
+        "name": "希多拉姆",
+        "localIcon": "images/skills/2022051215095257.png"
+      }
+    ],
+    "id": "S1-009",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-009.png"
+    }
+  },
+  {
+    "cardNum": "S1-010",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213594072.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼 奇迹型",
+    "hp": 4,
+    "attack": 5,
+    "speed": 8,
+    "attribute": {
+      "name": "戴拿奥特曼 奇迹型",
+      "icon": "/uploadfile/upload/2022051213594095.png",
+      "localIcon": "images/attributes/2022051213594095.png"
+    },
+    "specialMove": {
+      "name": "立玻留姆光波",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213594065.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2022051213594065.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213594088.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2022051213594088.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213594083.png",
+        "name": "戴拿奥特曼 奇迹型",
+        "localIcon": "images/skills/2022051213594083.png"
+      }
+    ],
+    "id": "S1-010",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-010.png"
+    }
+  },
+  {
+    "cardNum": "S1-011",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213581175.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼 强壮型",
+    "hp": 8,
+    "attack": 10,
+    "speed": 4,
+    "attribute": {
+      "name": "戴拿奥特曼 强壮型",
+      "icon": "/uploadfile/upload/2022051213581185.png",
+      "localIcon": "images/attributes/2022051213581185.png"
+    },
+    "specialMove": {
+      "name": "加尔奈特轰炸（吸收反射式）",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213581163.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2022051213581163.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215101272.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2022051215101272.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213581115.png",
+        "name": "戴拿奥特曼 强壮型",
+        "localIcon": "images/skills/2022051213581115.png"
+      }
+    ],
+    "id": "S1-011",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-011.png"
+    }
+  },
+  {
+    "cardNum": "S1-012",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213565021.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼（V2）",
+    "hp": 9,
+    "attack": 8,
+    "speed": 4,
+    "attribute": {
+      "name": "盖亚奥特曼（V2）",
+      "icon": "/uploadfile/upload/2022051214204547.png",
+      "localIcon": "images/attributes/2022051214204547.png"
+    },
+    "specialMove": {
+      "name": "量子流线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213565042.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2022051213565042.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213565024.png",
+        "name": "盖亚奥特曼（V2）"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213565040.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2022051213565040.png"
+      }
+    ],
+    "id": "S1-012",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-012.png"
+    }
+  },
+  {
+    "cardNum": "S1-013",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213550180.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼（V2）",
+    "hp": 6,
+    "attack": 7,
+    "speed": 8,
+    "attribute": {
+      "name": "阿古茹奥特曼（V2）",
+      "icon": "/uploadfile/upload/2022051213550173.png",
+      "localIcon": "images/attributes/2022051213550173.png"
+    },
+    "specialMove": {
+      "name": "阿古茹流线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213550146.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2022051213550146.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215103054.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2022051215103054.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213550128.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2022051213550128.png"
+      }
+    ],
+    "id": "S1-013",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-013.png"
+    }
+  },
+  {
+    "cardNum": "S1-014",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213524376.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "艾克斯奥特曼",
+    "hp": 5,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "艾克斯奥特曼",
+      "icon": "/uploadfile/upload/2022051213524342.png",
+      "localIcon": "images/attributes/2022051213524342.png"
+    },
+    "specialMove": {
+      "name": "扎纳帝姆光线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213524333.png",
+        "name": "艾克斯奥特曼",
+        "localIcon": "images/skills/2022051213524333.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213524391.png",
+        "name": "艾克斯奥特曼",
+        "localIcon": "images/skills/2022051213524391.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213524378.png",
+        "name": "艾克斯奥特曼",
+        "localIcon": "images/skills/2022051213524378.png"
+      }
+    ],
+    "id": "S1-014",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-014.png"
+    }
+  },
+  {
+    "cardNum": "S1-015",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213504334.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 重光形态",
+    "hp": 6,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "欧布奥特曼 重光形态",
+      "icon": "/uploadfile/upload/2022051213504375.png",
+      "localIcon": "images/attributes/2022051213504375.png"
+    },
+    "specialMove": {
+      "name": "斯派利敖光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213504396.png",
+        "name": "欧布奥特曼 重光形态",
+        "localIcon": "images/skills/2022051213504396.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213504354.png",
+        "name": "欧布奥特曼 重光形态",
+        "localIcon": "images/skills/2022051213504354.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213504365.png",
+        "name": "欧布奥特曼 重光形态",
+        "localIcon": "images/skills/2022051213504365.png"
+      }
+    ],
+    "id": "S1-015",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-015.png"
+    }
+  },
+  {
+    "cardNum": "S1-016",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213485940.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 伽马未来",
+    "hp": 6,
+    "attack": 7,
+    "speed": 5,
+    "attribute": {
+      "name": "泽塔奥特曼 伽马未来",
+      "icon": "/uploadfile/upload/2022051213485977.png",
+      "localIcon": "images/attributes/2022051213485977.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆穿刺",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213485974.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2022051213485974.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213485969.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2022051213485969.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213485925.png",
+        "name": "泽塔奥特曼 伽马未来",
+        "localIcon": "images/skills/2022051213485925.png"
+      }
+    ],
+    "id": "S1-016",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-016.png"
+    }
+  },
+  {
+    "cardNum": "S1-017",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2022051213471099.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "邪恶迪迦",
+    "hp": 6,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "邪恶迪迦",
+      "icon": "/uploadfile/upload/2022051213465159.png",
+      "localIcon": "images/attributes/2022051213465159.png"
+    },
+    "specialMove": {
+      "name": "邪恶射线",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213465113.png",
+        "name": "邪恶迪迦",
+        "localIcon": "images/skills/2022051213465113.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213471053.png",
+        "name": "邪恶迪迦",
+        "localIcon": "images/skills/2022051213471053.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213465123.png",
+        "name": "邪恶迪迦",
+        "localIcon": "images/skills/2022051213465123.png"
+      }
+    ],
+    "id": "S1-017",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-017.png"
+    }
+  },
+  {
+    "cardNum": "S1-018",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213450025.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼",
+    "hp": 7,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "盖亚奥特曼",
+      "icon": "/uploadfile/upload/2022051213450077.png",
+      "localIcon": "images/attributes/2022051213450077.png"
+    },
+    "specialMove": {
+      "name": "量子流线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213450096.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2022051213450096.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215155337.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2022051215155337.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213450049.png",
+        "name": "盖亚奥特曼",
+        "localIcon": "images/skills/2022051213450049.png"
+      }
+    ],
+    "id": "S1-018",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-018.png"
+    }
+  },
+  {
+    "cardNum": "S1-019",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213421720.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼",
+    "hp": 4,
+    "attack": 5,
+    "speed": 7,
+    "attribute": {
+      "name": "阿古茹奥特曼",
+      "icon": "/uploadfile/upload/2022051213421770.png",
+      "localIcon": "images/attributes/2022051213421770.png"
+    },
+    "specialMove": {
+      "name": "阿古茹光弹",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213421754.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2022051213421754.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215160898.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2022051215160898.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213421767.png",
+        "name": "阿古茹奥特曼",
+        "localIcon": "images/skills/2022051213421767.png"
+      }
+    ],
+    "id": "S1-019",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-019.png"
+    }
+  },
+  {
+    "cardNum": "S1-020",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213353774.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奈克赛斯奥特曼 成年形态",
+    "hp": 6,
+    "attack": 6,
+    "speed": 4,
+    "attribute": {
+      "name": "奈克赛斯奥特曼 成年形态",
+      "icon": "/uploadfile/upload/2022051213353762.png",
+      "localIcon": "images/attributes/2022051213353762.png"
+    },
+    "specialMove": {
+      "name": "核心冲击",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213353789.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2022051213353789.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213353711.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2022051213353711.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213353732.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2022051213353732.png"
+      }
+    ],
+    "id": "S1-020",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-020.png"
+    }
+  },
+  {
+    "cardNum": "S1-021",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213340958.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼",
+    "hp": 7,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "梦比优斯奥特曼",
+      "icon": "/uploadfile/upload/2022051213340959.png",
+      "localIcon": "images/attributes/2022051213340959.png"
+    },
+    "specialMove": {
+      "name": "梦比姆射线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051214222054.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2022051214222054.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213335015.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2022051213335015.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213335032.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2022051213335032.png"
+      }
+    ],
+    "id": "S1-021",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-021.png"
+    }
+  },
+  {
+    "cardNum": "S1-022",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213255245.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希卡利奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 7,
+    "attribute": {
+      "name": "希卡利奥特曼",
+      "icon": "/uploadfile/upload/2022051213255227.png",
+      "localIcon": "images/attributes/2022051213255227.png"
+    },
+    "specialMove": {
+      "name": "骑士光束剑",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213255295.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2022051213255295.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213255258.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2022051213255258.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213255281.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2022051213255281.png"
+      }
+    ],
+    "id": "S1-022",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-022.png"
+    }
+  },
+  {
+    "cardNum": "S1-023",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213240875.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 4,
+    "attribute": {
+      "name": "赛罗奥特曼",
+      "icon": "/uploadfile/upload/2022051213240887.png",
+      "localIcon": "images/attributes/2022051213240887.png"
+    },
+    "specialMove": {
+      "name": "赛罗双射线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213240828.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2022051213240828.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213240893.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2022051213240893.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213240860.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2022051213240860.png"
+      }
+    ],
+    "id": "S1-023",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-023.png"
+    }
+  },
+  {
+    "cardNum": "S1-024",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213222626.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "贝利亚奥特曼",
+    "hp": 6,
+    "attack": 8,
+    "speed": 4,
+    "attribute": {
+      "name": "贝利亚奥特曼",
+      "icon": "/uploadfile/upload/2022051213222611.png",
+      "localIcon": "images/attributes/2022051213222611.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213222677.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2022051213222677.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213222666.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2022051213222666.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213222633.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2022051213222633.png"
+      }
+    ],
+    "id": "S1-024",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-024.png"
+    }
+  },
+  {
+    "cardNum": "S1-025",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213205458.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼",
+    "hp": 5,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "银河奥特曼",
+      "icon": "/uploadfile/upload/2022051213205423.png",
+      "localIcon": "images/attributes/2022051213205423.png"
+    },
+    "specialMove": {
+      "name": "终极七色光波",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213205440.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2022051213205440.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213205482.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2022051213205482.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213205411.png",
+        "name": "银河奥特曼",
+        "localIcon": "images/skills/2022051213205411.png"
+      }
+    ],
+    "id": "S1-025",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-025.png"
+    }
+  },
+  {
+    "cardNum": "S1-026",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051213191830.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "维克特利奥特曼",
+    "hp": 8,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "维克特利奥特曼",
+      "icon": "/uploadfile/upload/2022051213191829.png",
+      "localIcon": "images/attributes/2022051213191829.png"
+    },
+    "specialMove": {
+      "name": "EX雷德王重击（玛格玛震荡）",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051213191849.png",
+        "name": "维克特利奥特曼",
+        "localIcon": "images/skills/2022051213191849.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051213191826.png",
+        "name": "维克特利奥特曼",
+        "localIcon": "images/skills/2022051213191826.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051213191844.png",
+        "name": "维克特利奥特曼",
+        "localIcon": "images/skills/2022051213191844.png"
+      }
+    ],
+    "id": "S1-026",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-026.png"
+    }
+  },
+  {
+    "cardNum": "S1-027",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212393040.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 暗耀形态",
+    "hp": 6,
+    "attack": 7,
+    "speed": 4,
+    "attribute": {
+      "name": "欧布奥特曼 暗耀形态",
+      "icon": "/uploadfile/upload/2022051212393037.png",
+      "localIcon": "images/attributes/2022051212393037.png"
+    },
+    "specialMove": {
+      "name": "赛特修姆光线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212393086.png",
+        "name": "欧布奥特曼 暗耀形态",
+        "localIcon": "images/skills/2022051212393086.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212393084.png",
+        "name": "欧布奥特曼 暗耀形态",
+        "localIcon": "images/skills/2022051212393084.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212393026.png",
+        "name": "欧布奥特曼 暗耀形态",
+        "localIcon": "images/skills/2022051212393026.png"
+      }
+    ],
+    "id": "S1-027",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-027.png"
+    }
+  },
+  {
+    "cardNum": "S1-028",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212375123.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 豪勇形态",
+    "hp": 7,
+    "attack": 6,
+    "speed": 3,
+    "attribute": {
+      "name": "捷德奥特曼 豪勇形态",
+      "icon": "/uploadfile/upload/2022051212375139.png",
+      "localIcon": "images/attributes/2022051212375139.png"
+    },
+    "specialMove": {
+      "name": "强力爆裂光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212375186.png",
+        "name": "捷德奥特曼 豪勇形态",
+        "localIcon": "images/skills/2022051212375186.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215105076.png",
+        "name": "捷德奥特曼 豪勇形态",
+        "localIcon": "images/skills/2022051215105076.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212375155.png",
+        "name": "捷德奥特曼 豪勇形态",
+        "localIcon": "images/skills/2022051212375155.png"
+      }
+    ],
+    "id": "S1-028",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-028.png"
+    }
+  },
+  {
+    "cardNum": "S1-029",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212360654.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "罗索奥特曼 烈火形态",
+    "hp": 5,
+    "attack": 7,
+    "speed": 5,
+    "attribute": {
+      "name": "罗索奥特曼 烈火形态",
+      "icon": "/uploadfile/upload/2022051212354730.png",
+      "localIcon": "images/attributes/2022051212354730.png"
+    },
+    "specialMove": {
+      "name": "烈火爆球击",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212360698.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2022051212360698.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212354724.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2022051212354724.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212354771.png",
+        "name": "罗索奥特曼 烈火形态",
+        "localIcon": "images/skills/2022051212354771.png"
+      }
+    ],
+    "id": "S1-029",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-029.png"
+    }
+  },
+  {
+    "cardNum": "S1-030",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212335586.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "布鲁奥特曼 跃水形态",
+    "hp": 5,
+    "attack": 5,
+    "speed": 6,
+    "attribute": {
+      "name": "布鲁奥特曼 跃水形态",
+      "icon": "/uploadfile/upload/2022051212335528.png",
+      "localIcon": "images/attributes/2022051212335528.png"
+    },
+    "specialMove": {
+      "name": "跃水斯特流姆光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212335575.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2022051212335575.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212335592.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2022051212335592.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212335519.png",
+        "name": "布鲁奥特曼 跃水形态",
+        "localIcon": "images/skills/2022051212335519.png"
+      }
+    ],
+    "id": "S1-030",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-030.png"
+    }
+  },
+  {
+    "cardNum": "S1-031",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212314299.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 原始形态",
+    "hp": 7,
+    "attack": 5,
+    "speed": 6,
+    "attribute": {
+      "name": "泽塔奥特曼 原始形态",
+      "icon": "/uploadfile/upload/2022051212314288.png",
+      "localIcon": "images/attributes/2022051212314288.png"
+    },
+    "specialMove": {
+      "name": "泽斯帝姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212314246.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2022051212314246.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212314225.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2022051212314225.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212314297.png",
+        "name": "泽塔奥特曼 原始形态",
+        "localIcon": "images/skills/2022051212314297.png"
+      }
+    ],
+    "id": "S1-031",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-031.png"
+    }
+  },
+  {
+    "cardNum": "S1-032",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212302831.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 守护形态",
+    "hp": 6,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "捷德奥特曼 守护形态",
+      "icon": "/uploadfile/upload/2022051212302830.png",
+      "localIcon": "images/attributes/2022051212302830.png"
+    },
+    "specialMove": {
+      "name": "超级屏障重击",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212302881.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2022051212302881.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212302816.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2022051212302816.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212302886.png",
+        "name": "捷德奥特曼 守护形态",
+        "localIcon": "images/skills/2022051212302886.png"
+      }
+    ],
+    "id": "S1-032",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-032.png"
+    }
+  },
+  {
+    "cardNum": "S1-033",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212290999.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "哥尔赞",
+    "hp": 8,
+    "attack": 7,
+    "speed": 3,
+    "attribute": {
+      "name": "哥尔赞",
+      "icon": "/uploadfile/upload/2022051212290991.png",
+      "localIcon": "images/attributes/2022051212290991.png"
+    },
+    "specialMove": {
+      "name": "超音波光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212290929.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2022051212290929.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212290935.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2022051212290935.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212290923.png",
+        "name": "哥尔赞",
+        "localIcon": "images/skills/2022051212290923.png"
+      }
+    ],
+    "id": "S1-033",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-033.png"
+    }
+  },
+  {
+    "cardNum": "S1-034",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212275897.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "美尔巴",
+    "hp": 5,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "美尔巴",
+      "icon": "/uploadfile/upload/2022051212273724.png",
+      "localIcon": "images/attributes/2022051212273724.png"
+    },
+    "specialMove": {
+      "name": "螺旋桨潜水",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212273793.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2022051212273793.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212275811.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2022051212275811.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212273757.png",
+        "name": "美尔巴",
+        "localIcon": "images/skills/2022051212273757.png"
+      }
+    ],
+    "id": "S1-034",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-034.png"
+    }
+  },
+  {
+    "cardNum": "S1-035",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2022051212211247.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴斯法萨",
+    "hp": 5,
+    "attack": 6,
+    "speed": 3,
+    "attribute": {
+      "name": "戴斯法萨",
+      "icon": "/uploadfile/upload/2022051212211255.png",
+      "localIcon": "images/attributes/2022051212211255.png"
+    },
+    "specialMove": {
+      "name": "内奥马克西姆炮",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212211282.png",
+        "name": "戴斯法萨",
+        "localIcon": "images/skills/2022051212211282.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212211291.png",
+        "name": "戴斯法萨",
+        "localIcon": "images/skills/2022051212211291.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212211293.png",
+        "name": "戴斯法萨",
+        "localIcon": "images/skills/2022051212211293.png"
+      }
+    ],
+    "id": "S1-035",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-035.png"
+    }
+  },
+  {
+    "cardNum": "S1-036",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212145657.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼",
+    "hp": 5,
+    "attack": 4,
+    "speed": 5,
+    "attribute": {
+      "name": "特利迦奥特曼",
+      "icon": "/uploadfile/upload/2022051212145686.png",
+      "localIcon": "images/attributes/2022051212145686.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212145632.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051212145632.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215110763.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051215110763.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212145641.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2022051212145641.png"
+      }
+    ],
+    "id": "S1-036",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-036.png"
+    }
+  },
+  {
+    "cardNum": "S1-037",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212124868.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼 强力型",
+    "hp": 6,
+    "attack": 6,
+    "speed": 4,
+    "attribute": {
+      "name": "特利迦奥特曼 强力型",
+      "icon": "/uploadfile/upload/2022051212124834.png",
+      "localIcon": "images/attributes/2022051212124834.png"
+    },
+    "specialMove": {
+      "name": "迪拉休姆光流",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212124840.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051212124840.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215113686.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051215113686.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212124884.png",
+        "name": "特利迦奥特曼 强力型",
+        "localIcon": "images/skills/2022051212124884.png"
+      }
+    ],
+    "id": "S1-037",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-037.png"
+    }
+  },
+  {
+    "cardNum": "S1-038",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212092852.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼 空中型",
+    "hp": 5,
+    "attack": 3,
+    "speed": 7,
+    "attribute": {
+      "name": "特利迦奥特曼 空中型",
+      "icon": "/uploadfile/upload/2022051212092899.png",
+      "localIcon": "images/attributes/2022051212092899.png"
+    },
+    "specialMove": {
+      "name": "兰帕尔特光弹",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212092889.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051212092889.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215114378.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051215114378.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212092874.png",
+        "name": "特利迦奥特曼 空中型",
+        "localIcon": "images/skills/2022051212092874.png"
+      }
+    ],
+    "id": "S1-038",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-038.png"
+    }
+  },
+  {
+    "cardNum": "S1-039",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212070227.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼斯特利姆形态",
+    "hp": 4,
+    "attack": 6,
+    "speed": 3,
+    "attribute": {
+      "name": "银河奥特曼斯特利姆形态",
+      "icon": "/uploadfile/upload/2022051212070215.png",
+      "localIcon": "images/attributes/2022051212070215.png"
+    },
+    "specialMove": {
+      "name": "斯特利姆光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212070255.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051212070255.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212070224.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051212070224.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212070237.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2022051212070237.png"
+      }
+    ],
+    "id": "S1-039",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-039.png"
+    }
+  },
+  {
+    "cardNum": "S1-040",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212050516.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼",
+    "hp": 6,
+    "attack": 4,
+    "speed": 4,
+    "attribute": {
+      "name": "迪迦奥特曼",
+      "icon": "/uploadfile/upload/2022051212050598.png",
+      "localIcon": "images/attributes/2022051212050598.png"
+    },
+    "specialMove": {
+      "name": "迪迦切割",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212050588.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2022051212050588.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212050576.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2022051212050576.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212050517.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2022051212050517.png"
+      }
+    ],
+    "id": "S1-040",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-040.png"
+    }
+  },
+  {
+    "cardNum": "S1-041",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051212024537.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼",
+    "hp": 4,
+    "attack": 7,
+    "speed": 4,
+    "attribute": {
+      "name": "戴拿奥特曼",
+      "icon": "/uploadfile/upload/2022051212024580.png",
+      "localIcon": "images/attributes/2022051212024580.png"
+    },
+    "specialMove": {
+      "name": "闪亮切割",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051212024562.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2022051212024562.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051212024514.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2022051212024514.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051212024578.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2022051212024578.png"
+      }
+    ],
+    "id": "S1-041",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-041.png"
+    }
+  },
+  {
+    "cardNum": "S1-042",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211584926.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "高斯奥特曼",
+    "hp": 7,
+    "attack": 3,
+    "speed": 6,
+    "attribute": {
+      "name": "高斯奥特曼",
+      "icon": "/uploadfile/upload/2022051211584919.png",
+      "localIcon": "images/attributes/2022051211584919.png"
+    },
+    "specialMove": {
+      "name": "月光破坏光线",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211584923.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2022051211584923.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211584922.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2022051211584922.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211584921.png",
+        "name": "高斯奥特曼",
+        "localIcon": "images/skills/2022051211584921.png"
+      }
+    ],
+    "id": "S1-042",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-042.png"
+    }
+  },
+  {
+    "cardNum": "S1-043",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211490992.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 5,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2022051211490941.png",
+      "localIcon": "images/attributes/2022051211490941.png"
+    },
+    "specialMove": {
+      "name": "银河加农",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211490943.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2022051211490943.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211490912.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2022051211490912.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211490991.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2022051211490991.png"
+      }
+    ],
+    "id": "S1-043",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-043.png"
+    }
+  },
+  {
+    "cardNum": "S1-044",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211460475.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "维克特利奥特曼 骑士形态",
+    "hp": 5,
+    "attack": 3,
+    "speed": 6,
+    "attribute": {
+      "name": "维克特利奥特曼 骑士形态",
+      "icon": "/uploadfile/upload/2022051211460473.png",
+      "localIcon": "images/attributes/2022051211460473.png"
+    },
+    "specialMove": {
+      "name": "骑士维克特利姆射线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211460495.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2022051211460495.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211460447.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2022051211460447.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211460410.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2022051211460410.png"
+      }
+    ],
+    "id": "S1-044",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-044.png"
+    }
+  },
+  {
+    "cardNum": "S1-045",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211435080.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "艾克斯奥特曼 超越形态",
+    "hp": 5,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "艾克斯奥特曼 超越形态",
+      "icon": "/uploadfile/upload/2022051211435097.png",
+      "localIcon": "images/attributes/2022051211435097.png"
+    },
+    "specialMove": {
+      "name": "超越艾克斯切割",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211435028.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2022051211435028.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211435012.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2022051211435012.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211435065.png",
+        "name": "艾克斯奥特曼 超越形态",
+        "localIcon": "images/skills/2022051211435065.png"
+      }
+    ],
+    "id": "S1-045",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-045.png"
+    }
+  },
+  {
+    "cardNum": "S1-046",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211405663.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 慈愈形态",
+    "hp": 6,
+    "attack": 4,
+    "speed": 6,
+    "attribute": {
+      "name": "欧布奥特曼 慈愈形态",
+      "icon": "/uploadfile/upload/2022051211405613.png",
+      "localIcon": "images/attributes/2022051211405613.png"
+    },
+    "specialMove": {
+      "name": "满月帝姆光线",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211405691.png",
+        "name": "欧布奥特曼 慈愈形态",
+        "localIcon": "images/skills/2022051211405691.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211405636.png",
+        "name": "欧布奥特曼 慈愈形态",
+        "localIcon": "images/skills/2022051211405636.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211405625.png",
+        "name": "欧布奥特曼 慈愈形态",
+        "localIcon": "images/skills/2022051211405625.png"
+      }
+    ],
+    "id": "S1-046",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-046.png"
+    }
+  },
+  {
+    "cardNum": "S1-047",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211380211.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 光魂形态",
+    "hp": 4,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "欧布奥特曼 光魂形态",
+      "icon": "/uploadfile/upload/2022051211380221.png",
+      "localIcon": "images/attributes/2022051211380221.png"
+    },
+    "specialMove": {
+      "name": "奥特极限轰爆",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211380213.png",
+        "name": "欧布奥特曼 光魂形态",
+        "localIcon": "images/skills/2022051211380213.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051211380234.png",
+        "name": "欧布奥特曼 光魂形态",
+        "localIcon": "images/skills/2022051211380234.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211380271.png",
+        "name": "欧布奥特曼 光魂形态",
+        "localIcon": "images/skills/2022051211380271.png"
+      }
+    ],
+    "id": "S1-047",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-047.png"
+    }
+  },
+  {
+    "cardNum": "S1-048",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2022051211342296.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 无尽形态",
+    "hp": 3,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "捷德奥特曼 无尽形态",
+      "icon": "/uploadfile/upload/2022051211342229.png",
+      "localIcon": "images/attributes/2022051211342229.png"
+    },
+    "specialMove": {
+      "name": "魔法三叉戟",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2022051211342237.png",
+        "name": "捷德奥特曼 无尽形态",
+        "localIcon": "images/skills/2022051211342237.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2022051215120598.png",
+        "name": "捷德奥特曼 无尽形态",
+        "localIcon": "images/skills/2022051215120598.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2022051211342248.png",
+        "name": "捷德奥特曼 无尽形态",
+        "localIcon": "images/skills/2022051211342248.png"
+      }
+    ],
+    "id": "S1-048",
+    "set": {
+      "id": "32",
+      "name": "曙光再现 第一弹",
+      "series": "曙光再现"
+    },
+    "images": {
+      "card": "images/cards/S1-048.png"
+    }
+  }
+]

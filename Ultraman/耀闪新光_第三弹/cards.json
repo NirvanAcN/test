@@ -1,0 +1,2301 @@
+[
+  {
+    "cardNum": "U3-001",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614312496.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "帝纳斯奥特曼",
+    "hp": 8,
+    "attack": 8,
+    "speed": 9,
+    "attribute": {
+      "name": "帝纳斯奥特曼",
+      "icon": "/uploadfile/upload/2023062614312427.png",
+      "localIcon": "images/attributes/2023062614312427.png"
+    },
+    "specialMove": {
+      "name": "帝纳升焰拳",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614312417.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062614312417.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614312470.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062614312470.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062709103915.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062709103915.png"
+      }
+    ],
+    "id": "U3-001",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-001.png"
+    }
+  },
+  {
+    "cardNum": "U3-002",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614331396.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷古洛思奥特曼",
+    "hp": 6,
+    "attack": 12,
+    "speed": 11,
+    "attribute": {
+      "name": "雷古洛思奥特曼",
+      "icon": "/uploadfile/upload/2023062614331391.png",
+      "localIcon": "images/attributes/2023062614331391.png"
+    },
+    "specialMove": {
+      "name": "白虎赤龙弹",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614331370.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062614331370.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614331385.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062614331385.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614331372.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062614331372.png"
+      }
+    ],
+    "id": "U3-002",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-002.png"
+    }
+  },
+  {
+    "cardNum": "U3-003",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614344510.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼",
+    "hp": 7,
+    "attack": 9,
+    "speed": 8,
+    "attribute": {
+      "name": "戴拿奥特曼",
+      "icon": "/uploadfile/upload/2023062614344535.png",
+      "localIcon": "images/attributes/2023062614344535.png"
+    },
+    "specialMove": {
+      "name": "索尔捷特光线",
+      "value": 11
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062709113872.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023062709113872.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614344579.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023062614344579.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614344582.png",
+        "name": "戴拿奥特曼"
+      }
+    ],
+    "id": "U3-003",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-003.png"
+    }
+  },
+  {
+    "cardNum": "U3-004",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614361852.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 6,
+    "attack": 7,
+    "speed": 10,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2023062614361812.png",
+      "localIcon": "images/attributes/2023062614361812.png"
+    },
+    "specialMove": {
+      "name": "银河之剑",
+      "value": 12
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614361858.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062614361858.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614361851.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062614361851.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062709115419.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062709115419.png"
+      }
+    ],
+    "id": "U3-004",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-004.png"
+    }
+  },
+  {
+    "cardNum": "U3-005",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614380196.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼",
+    "hp": 5,
+    "attack": 10,
+    "speed": 8,
+    "attribute": {
+      "name": "赛罗奥特曼",
+      "icon": "/uploadfile/upload/2023062614380149.png",
+      "localIcon": "images/attributes/2023062614380149.png"
+    },
+    "specialMove": {
+      "name": "等离子火花斩",
+      "value": 12
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614380147.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062614380147.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062709120463.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062709120463.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614380176.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062614380176.png"
+      }
+    ],
+    "id": "U3-005",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-005.png"
+    }
+  },
+  {
+    "cardNum": "U3-006",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614402130.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "特利迦奥特曼",
+    "hp": 8,
+    "attack": 10,
+    "speed": 9,
+    "attribute": {
+      "name": "特利迦奥特曼",
+      "icon": "/uploadfile/upload/2023062614402161.png",
+      "localIcon": "images/attributes/2023062614402161.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614402161.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2023062614402161.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614402188.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2023062614402188.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614402158.png",
+        "name": "特利迦奥特曼",
+        "localIcon": "images/skills/2023062614402158.png"
+      }
+    ],
+    "id": "U3-006",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-006.png"
+    }
+  },
+  {
+    "cardNum": "U3-007",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614420552.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "德凯奥特曼 强劲型",
+    "hp": 7,
+    "attack": 10,
+    "speed": 5,
+    "attribute": {
+      "name": "德凯奥特曼 强劲型",
+      "icon": "/uploadfile/upload/2023062614420515.png",
+      "localIcon": "images/attributes/2023062614420515.png"
+    },
+    "specialMove": {
+      "name": "德凯强劲闪亮",
+      "value": 13
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614420596.png",
+        "name": "德凯奥特曼 强劲型",
+        "localIcon": "images/skills/2023062614420596.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614420532.png",
+        "name": "德凯奥特曼 强劲型",
+        "localIcon": "images/skills/2023062614420532.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062709121750.png",
+        "name": "德凯奥特曼 强劲型",
+        "localIcon": "images/skills/2023062709121750.png"
+      }
+    ],
+    "id": "U3-007",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-007.png"
+    }
+  },
+  {
+    "cardNum": "U3-008",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614455052.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "母体斯菲亚扎沃尔斯",
+    "hp": 10,
+    "attack": 12,
+    "speed": 4,
+    "attribute": {
+      "name": "母体斯菲亚扎沃尔斯",
+      "icon": "/uploadfile/upload/2023062614455019.png",
+      "localIcon": "images/attributes/2023062614455019.png"
+    },
+    "specialMove": {
+      "name": "母体斯菲亚方阵",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614455078.png",
+        "name": "母体斯菲亚扎沃尔斯",
+        "localIcon": "images/skills/2023062614455078.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062709124648.png",
+        "name": "母体斯菲亚扎沃尔斯",
+        "localIcon": "images/skills/2023062709124648.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614455057.png",
+        "name": "母体斯菲亚扎沃尔斯",
+        "localIcon": "images/skills/2023062614455057.png"
+      }
+    ],
+    "id": "U3-008",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-008.png"
+    }
+  },
+  {
+    "cardNum": "U3-009",
+    "rarity": "究极稀有(UR)",
+    "cardImg": "/uploadfile/upload/2023062614475271.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛文加",
+    "hp": 13,
+    "attack": 11,
+    "speed": 5,
+    "attribute": {
+      "name": "赛文加",
+      "icon": "/uploadfile/upload/2023062614475285.png",
+      "localIcon": "images/attributes/2023062614475285.png"
+    },
+    "specialMove": {
+      "name": "硬芯铁拳弹",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062614475299.png",
+        "name": "赛文加",
+        "localIcon": "images/skills/2023062614475299.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062614475253.png",
+        "name": "赛文加",
+        "localIcon": "images/skills/2023062614475253.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062614475237.png",
+        "name": "赛文加",
+        "localIcon": "images/skills/2023062614475237.png"
+      }
+    ],
+    "id": "U3-009",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-009.png"
+    }
+  },
+  {
+    "cardNum": "U3-010",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712330575.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷欧奥特曼",
+    "hp": 7,
+    "attack": 8,
+    "speed": 8,
+    "attribute": {
+      "name": "雷欧奥特曼",
+      "icon": "/uploadfile/upload/2023062712330512.png",
+      "localIcon": "images/attributes/2023062712330512.png"
+    },
+    "specialMove": {
+      "name": "雷欧双节棍",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712330559.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062712330559.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712330552.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062712330552.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712330549.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062712330549.png"
+      }
+    ],
+    "id": "U3-010",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-010.png"
+    }
+  },
+  {
+    "cardNum": "U3-011",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712313364.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼 无限形态",
+    "hp": 5,
+    "attack": 8,
+    "speed": 7,
+    "attribute": {
+      "name": "赛罗奥特曼 无限形态",
+      "icon": "/uploadfile/upload/2023062712313349.png",
+      "localIcon": "images/attributes/2023062712313349.png"
+    },
+    "specialMove": {
+      "name": "八重破坏光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712313354.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2023062712313354.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712313396.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2023062712313396.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712313320.png",
+        "name": "赛罗奥特曼 无限形态",
+        "localIcon": "images/skills/2023062712313320.png"
+      }
+    ],
+    "id": "U3-011",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-011.png"
+    }
+  },
+  {
+    "cardNum": "U3-012",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712295660.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河维克特利奥特曼",
+    "hp": 5,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "银河维克特利奥特曼",
+      "icon": "/uploadfile/upload/2023062712295646.png",
+      "localIcon": "images/attributes/2023062712295646.png"
+    },
+    "specialMove": {
+      "name": "奥特融合射线",
+      "value": 10
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712295620.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2023062712295620.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712295670.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2023062712295670.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712295685.png",
+        "name": "银河维克特利奥特曼",
+        "localIcon": "images/skills/2023062712295685.png"
+      }
+    ],
+    "id": "U3-012",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-012.png"
+    }
+  },
+  {
+    "cardNum": "U3-013",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712274585.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "艾克斯超越型 贝塔闪光装甲",
+    "hp": 7,
+    "attack": 10,
+    "speed": 4,
+    "attribute": {
+      "name": "艾克斯超越型 贝塔闪光装甲",
+      "icon": "/uploadfile/upload/2023062712274599.png",
+      "localIcon": "images/attributes/2023062712274599.png"
+    },
+    "specialMove": {
+      "name": "贝塔闪光爆破光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712274516.png",
+        "name": "艾克斯超越型 贝塔闪光装甲",
+        "localIcon": "images/skills/2023062712274516.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712274513.png",
+        "name": "艾克斯超越型 贝塔闪光装甲",
+        "localIcon": "images/skills/2023062712274513.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712274553.png",
+        "name": "艾克斯超越型 贝塔闪光装甲",
+        "localIcon": "images/skills/2023062712274553.png"
+      }
+    ],
+    "id": "U3-013",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-013.png"
+    }
+  },
+  {
+    "cardNum": "U3-014",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712245797.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "欧布奥特曼 欧布三重形态",
+    "hp": 6,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "欧布奥特曼 欧布三重形态",
+      "icon": "/uploadfile/upload/2023062712245711.png",
+      "localIcon": "images/attributes/2023062712245711.png"
+    },
+    "specialMove": {
+      "name": "三位一体光环",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712245787.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2023062712245787.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712245766.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2023062712245766.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712245780.png",
+        "name": "欧布奥特曼 欧布三重形态",
+        "localIcon": "images/skills/2023062712245780.png"
+      }
+    ],
+    "id": "U3-014",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-014.png"
+    }
+  },
+  {
+    "cardNum": "U3-015",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712230947.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "捷德奥特曼 尊皇形态",
+    "hp": 5,
+    "attack": 8,
+    "speed": 6,
+    "attribute": {
+      "name": "捷德奥特曼 尊皇形态",
+      "icon": "/uploadfile/upload/2023062712230942.png",
+      "localIcon": "images/attributes/2023062712230942.png"
+    },
+    "specialMove": {
+      "name": "皇家终结",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712230911.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2023062712230911.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712230990.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2023062712230990.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712230990.png",
+        "name": "捷德奥特曼 尊皇形态",
+        "localIcon": "images/skills/2023062712230990.png"
+      }
+    ],
+    "id": "U3-015",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-015.png"
+    }
+  },
+  {
+    "cardNum": "U3-016",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712204017.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "格罗布奥特曼",
+    "hp": 4,
+    "attack": 9,
+    "speed": 6,
+    "attribute": {
+      "name": "格罗布奥特曼",
+      "icon": "/uploadfile/upload/2023062712204094.png",
+      "localIcon": "images/attributes/2023062712204094.png"
+    },
+    "specialMove": {
+      "name": "格罗布奇迹光线",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712204029.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2023062712204029.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712204037.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2023062712204037.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712204070.png",
+        "name": "格罗布奥特曼",
+        "localIcon": "images/skills/2023062712204070.png"
+      }
+    ],
+    "id": "U3-016",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-016.png"
+    }
+  },
+  {
+    "cardNum": "U3-017",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712174441.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泰迦奥特曼 三重斯特利姆形态",
+    "hp": 7,
+    "attack": 9,
+    "speed": 4,
+    "attribute": {
+      "name": "泰迦奥特曼 三重斯特利姆形态",
+      "icon": "/uploadfile/upload/2023062712174491.png",
+      "localIcon": "images/attributes/2023062712174491.png"
+    },
+    "specialMove": {
+      "name": "三重斯特利姆爆弹",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712174453.png",
+        "name": "泰迦奥特曼 三重斯特利姆形态",
+        "localIcon": "images/skills/2023062712174453.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712174436.png",
+        "name": "泰迦奥特曼 三重斯特利姆形态",
+        "localIcon": "images/skills/2023062712174436.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712174424.png",
+        "name": "泰迦奥特曼 三重斯特利姆形态",
+        "localIcon": "images/skills/2023062712174424.png"
+      }
+    ],
+    "id": "U3-017",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-017.png"
+    }
+  },
+  {
+    "cardNum": "U3-018",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712155964.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泽塔奥特曼 德尔塔天爪",
+    "hp": 7,
+    "attack": 9,
+    "speed": 5,
+    "attribute": {
+      "name": "泽塔奥特曼 德尔塔天爪",
+      "icon": "/uploadfile/upload/2023062712155954.png",
+      "localIcon": "images/attributes/2023062712155954.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆獠牙",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712155914.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2023062712155914.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712155917.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2023062712155917.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712155939.png",
+        "name": "泽塔奥特曼 德尔塔天爪",
+        "localIcon": "images/skills/2023062712155939.png"
+      }
+    ],
+    "id": "U3-018",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-018.png"
+    }
+  },
+  {
+    "cardNum": "U3-019",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062712133854.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "闪耀特利迦永恒",
+    "hp": 5,
+    "attack": 8,
+    "speed": 5,
+    "attribute": {
+      "name": "闪耀特利迦永恒",
+      "icon": "/uploadfile/upload/2023062712133862.png",
+      "localIcon": "images/attributes/2023062712133862.png"
+    },
+    "specialMove": {
+      "name": "永恒杰拉迪斯",
+      "value": 9
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712133842.png",
+        "name": "闪耀特利迦永恒",
+        "localIcon": "images/skills/2023062712133842.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062712133825.png",
+        "name": "闪耀特利迦永恒",
+        "localIcon": "images/skills/2023062712133825.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062712133820.png",
+        "name": "闪耀特利迦永恒",
+        "localIcon": "images/skills/2023062712133820.png"
+      }
+    ],
+    "id": "U3-019",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-019.png"
+    }
+  },
+  {
+    "cardNum": "U3-020",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062711433237.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "德凯奥特曼 强劲型",
+    "hp": 8,
+    "attack": 9,
+    "speed": 3,
+    "attribute": {
+      "name": "德凯奥特曼 强劲型",
+      "icon": "/uploadfile/upload/2023062712345229.png",
+      "localIcon": "images/attributes/2023062712345229.png"
+    },
+    "specialMove": {
+      "name": "达伊缪德光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711433262.png",
+        "name": "德凯奥特曼 强劲型",
+        "localIcon": "images/skills/2023062711433262.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711433253.png",
+        "name": "德凯奥特曼 强劲型"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711433238.png",
+        "name": "德凯奥特曼 强劲型",
+        "localIcon": "images/skills/2023062711433238.png"
+      }
+    ],
+    "id": "U3-020",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-020.png"
+    }
+  },
+  {
+    "cardNum": "U3-021",
+    "rarity": "超稀有(SR)",
+    "cardImg": "/uploadfile/upload/2023062711314661.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "斯菲亚梅加洛杰厄（第二形态）",
+    "hp": 11,
+    "attack": 8,
+    "speed": 3,
+    "attribute": {
+      "name": "斯菲亚梅加洛杰厄（第二形态）",
+      "icon": "/uploadfile/upload/2023062711314692.png",
+      "localIcon": "images/attributes/2023062711314692.png"
+    },
+    "specialMove": {
+      "name": "邪神黑暗闪电光束",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711314663.png",
+        "name": "斯菲亚梅加洛杰厄（第二形态）",
+        "localIcon": "images/skills/2023062711314663.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711314689.png",
+        "name": "斯菲亚梅加洛杰厄（第二形态）",
+        "localIcon": "images/skills/2023062711314689.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711314649.png",
+        "name": "斯菲亚梅加洛杰厄（第二形态）",
+        "localIcon": "images/skills/2023062711314649.png"
+      }
+    ],
+    "id": "U3-021",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-021.png"
+    }
+  },
+  {
+    "cardNum": "U3-022",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711182642.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "帝纳斯奥特曼",
+    "hp": 5,
+    "attack": 5,
+    "speed": 6,
+    "attribute": {
+      "name": "帝纳斯奥特曼",
+      "icon": "/uploadfile/upload/2023062711182613.png",
+      "localIcon": "images/attributes/2023062711182613.png"
+    },
+    "specialMove": {
+      "name": "帝纳升焰拳",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711182667.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062711182667.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711182692.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062711182692.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711182633.png",
+        "name": "帝纳斯奥特曼",
+        "localIcon": "images/skills/2023062711182633.png"
+      }
+    ],
+    "id": "U3-022",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-022.png"
+    }
+  },
+  {
+    "cardNum": "U3-023",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711164033.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷古洛思奥特曼",
+    "hp": 3,
+    "attack": 8,
+    "speed": 8,
+    "attribute": {
+      "name": "雷古洛思奥特曼",
+      "icon": "/uploadfile/upload/2023062711164096.png",
+      "localIcon": "images/attributes/2023062711164096.png"
+    },
+    "specialMove": {
+      "name": "白虎赤龙弹",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711164017.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062711164017.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711164062.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062711164062.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711164059.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062711164059.png"
+      }
+    ],
+    "id": "U3-023",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-023.png"
+    }
+  },
+  {
+    "cardNum": "U3-024",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711140695.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷欧奥特曼",
+    "hp": 4,
+    "attack": 7,
+    "speed": 8,
+    "attribute": {
+      "name": "雷欧奥特曼",
+      "icon": "/uploadfile/upload/2023062711140691.png",
+      "localIcon": "images/attributes/2023062711140691.png"
+    },
+    "specialMove": {
+      "name": "手刃",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711140683.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062711140683.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711140685.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062711140685.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711140675.png",
+        "name": "雷欧奥特曼",
+        "localIcon": "images/skills/2023062711140675.png"
+      }
+    ],
+    "id": "U3-024",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-024.png"
+    }
+  },
+  {
+    "cardNum": "U3-025",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711064119.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿斯特拉",
+    "hp": 8,
+    "attack": 7,
+    "speed": 5,
+    "attribute": {
+      "name": "阿斯特拉",
+      "icon": "/uploadfile/upload/2023062711064139.png",
+      "localIcon": "images/attributes/2023062711064139.png"
+    },
+    "specialMove": {
+      "name": "阿斯特拉飞踢",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711064188.png",
+        "name": "阿斯特拉",
+        "localIcon": "images/skills/2023062711064188.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711064178.png",
+        "name": "阿斯特拉",
+        "localIcon": "images/skills/2023062711064178.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711064191.png",
+        "name": "阿斯特拉",
+        "localIcon": "images/skills/2023062711064191.png"
+      }
+    ],
+    "id": "U3-025",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-025.png"
+    }
+  },
+  {
+    "cardNum": "U3-026",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711040385.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼 空中型",
+    "hp": 4,
+    "attack": 6,
+    "speed": 8,
+    "attribute": {
+      "name": "迪迦奥特曼 空中型",
+      "icon": "/uploadfile/upload/2023062711040355.png",
+      "localIcon": "images/attributes/2023062711040355.png"
+    },
+    "specialMove": {
+      "name": "迪迦冰冻",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711040315.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023062711040315.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711040346.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023062711040346.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711040391.png",
+        "name": "迪迦奥特曼 空中型",
+        "localIcon": "images/skills/2023062711040391.png"
+      }
+    ],
+    "id": "U3-026",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-026.png"
+    }
+  },
+  {
+    "cardNum": "U3-027",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062711000231.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "赛罗奥特曼",
+    "hp": 5,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "赛罗奥特曼",
+      "icon": "/uploadfile/upload/2023062711000273.png",
+      "localIcon": "images/attributes/2023062711000273.png"
+    },
+    "specialMove": {
+      "name": "赛罗集束光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062711000276.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062711000276.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062711000225.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062711000225.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062711000270.png",
+        "name": "赛罗奥特曼",
+        "localIcon": "images/skills/2023062711000270.png"
+      }
+    ],
+    "id": "U3-027",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-027.png"
+    }
+  },
+  {
+    "cardNum": "U3-028",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710582375.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "贝利亚奥特曼",
+    "hp": 5,
+    "attack": 9,
+    "speed": 4,
+    "attribute": {
+      "name": "贝利亚奥特曼",
+      "icon": "/uploadfile/upload/2023062710582381.png",
+      "localIcon": "images/attributes/2023062710582381.png"
+    },
+    "specialMove": {
+      "name": "迪斯修姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710582324.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2023062710582324.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710582379.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2023062710582379.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710582342.png",
+        "name": "贝利亚奥特曼",
+        "localIcon": "images/skills/2023062710582342.png"
+      }
+    ],
+    "id": "U3-028",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-028.png"
+    }
+  },
+  {
+    "cardNum": "U3-029",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710563831.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "银河奥特曼斯特利姆形态",
+    "hp": 6,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "银河奥特曼斯特利姆形态",
+      "icon": "/uploadfile/upload/2023062710563849.png",
+      "localIcon": "images/attributes/2023062710563849.png"
+    },
+    "specialMove": {
+      "name": "斯特利姆光线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710563813.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2023062710563813.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710563811.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2023062710563811.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710563881.png",
+        "name": "银河奥特曼斯特利姆形态",
+        "localIcon": "images/skills/2023062710563881.png"
+      }
+    ],
+    "id": "U3-029",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-029.png"
+    }
+  },
+  {
+    "cardNum": "U3-030",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710491787.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "维克特利奥特曼 骑士形态",
+    "hp": 5,
+    "attack": 8,
+    "speed": 4,
+    "attribute": {
+      "name": "维克特利奥特曼 骑士形态",
+      "icon": "/uploadfile/upload/2023062710491798.png",
+      "localIcon": "images/attributes/2023062710491798.png"
+    },
+    "specialMove": {
+      "name": "骑士维克特利姆射线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710491768.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2023062710491768.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710491792.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2023062710491792.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710491797.png",
+        "name": "维克特利奥特曼 骑士形态",
+        "localIcon": "images/skills/2023062710491797.png"
+      }
+    ],
+    "id": "U3-030",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-030.png"
+    }
+  },
+  {
+    "cardNum": "U3-031",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710455458.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泰迦奥特曼 煜坤形态",
+    "hp": 7,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "泰迦奥特曼 煜坤形态",
+      "icon": "/uploadfile/upload/2023062712353952.png",
+      "localIcon": "images/attributes/2023062712353952.png"
+    },
+    "specialMove": {
+      "name": "黄金斯特利姆",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710455467.png",
+        "name": "泰迦奥特曼 煜坤形态",
+        "localIcon": "images/skills/2023062710455467.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710455497.png",
+        "name": "泰迦奥特曼 煜坤形态"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710455490.png",
+        "name": "泰迦奥特曼 煜坤形态",
+        "localIcon": "images/skills/2023062710455490.png"
+      }
+    ],
+    "id": "U3-031",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-031.png"
+    }
+  },
+  {
+    "cardNum": "U3-032",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710443091.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "泰塔斯奥特曼",
+    "hp": 7,
+    "attack": 8,
+    "speed": 4,
+    "attribute": {
+      "name": "泰塔斯奥特曼",
+      "icon": "/uploadfile/upload/2023062710443058.png",
+      "localIcon": "images/attributes/2023062710443058.png"
+    },
+    "specialMove": {
+      "name": "普兰尼姆爆弹",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710443077.png",
+        "name": "泰塔斯奥特曼",
+        "localIcon": "images/skills/2023062710443077.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710443038.png",
+        "name": "泰塔斯奥特曼",
+        "localIcon": "images/skills/2023062710443038.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710443079.png",
+        "name": "泰塔斯奥特曼",
+        "localIcon": "images/skills/2023062710443079.png"
+      }
+    ],
+    "id": "U3-032",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-032.png"
+    }
+  },
+  {
+    "cardNum": "U3-033",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710425435.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "风马奥特曼",
+    "hp": 3,
+    "attack": 5,
+    "speed": 8,
+    "attribute": {
+      "name": "风马奥特曼",
+      "icon": "/uploadfile/upload/2023062710425412.png",
+      "localIcon": "images/attributes/2023062710425412.png"
+    },
+    "specialMove": {
+      "name": "极星光波手里剑",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710425481.png",
+        "name": "风马奥特曼",
+        "localIcon": "images/skills/2023062710425481.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710425496.png",
+        "name": "风马奥特曼",
+        "localIcon": "images/skills/2023062710425496.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710425481.png",
+        "name": "风马奥特曼",
+        "localIcon": "images/skills/2023062710425481.png"
+      }
+    ],
+    "id": "U3-033",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-033.png"
+    }
+  },
+  {
+    "cardNum": "U3-034",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710400615.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "德凯奥特曼",
+    "hp": 6,
+    "attack": 5,
+    "speed": 5,
+    "attribute": {
+      "name": "德凯奥特曼",
+      "icon": "/uploadfile/upload/2023062710400674.png",
+      "localIcon": "images/attributes/2023062710400674.png"
+    },
+    "specialMove": {
+      "name": "赛尔捷特光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710400611.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023062710400611.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710400683.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023062710400683.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710400694.png",
+        "name": "德凯奥特曼",
+        "localIcon": "images/skills/2023062710400694.png"
+      }
+    ],
+    "id": "U3-034",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-034.png"
+    }
+  },
+  {
+    "cardNum": "U3-035",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710314268.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷德王",
+    "hp": 7,
+    "attack": 9,
+    "speed": 4,
+    "attribute": {
+      "name": "雷德王",
+      "icon": "/uploadfile/upload/2023062710314258.png",
+      "localIcon": "images/attributes/2023062710314258.png"
+    },
+    "specialMove": {
+      "name": "地面粉碎",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710314250.png",
+        "name": "雷德王",
+        "localIcon": "images/skills/2023062710314250.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710314248.png",
+        "name": "雷德王",
+        "localIcon": "images/skills/2023062710314248.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710314226.png",
+        "name": "雷德王",
+        "localIcon": "images/skills/2023062710314226.png"
+      }
+    ],
+    "id": "U3-035",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-035.png"
+    }
+  },
+  {
+    "cardNum": "U3-036",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710292198.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "哥莫拉",
+    "hp": 8,
+    "attack": 8,
+    "speed": 3,
+    "attribute": {
+      "name": "哥莫拉",
+      "icon": "/uploadfile/upload/2023062710292143.png",
+      "localIcon": "images/attributes/2023062710292143.png"
+    },
+    "specialMove": {
+      "name": "超震动波",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710292176.png",
+        "name": "哥莫拉",
+        "localIcon": "images/skills/2023062710292176.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710292199.png",
+        "name": "哥莫拉",
+        "localIcon": "images/skills/2023062710292199.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710292144.png",
+        "name": "哥莫拉",
+        "localIcon": "images/skills/2023062710292144.png"
+      }
+    ],
+    "id": "U3-036",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-036.png"
+    }
+  },
+  {
+    "cardNum": "U3-037",
+    "rarity": "稀有（R）",
+    "cardImg": "/uploadfile/upload/2023062710272292.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "伽古拉斯 伽古拉",
+    "hp": 3,
+    "attack": 4,
+    "speed": 8,
+    "attribute": {
+      "name": "伽古拉斯 伽古拉",
+      "icon": "/uploadfile/upload/2023062710272224.png",
+      "localIcon": "images/attributes/2023062710272224.png"
+    },
+    "specialMove": {
+      "name": "新月斩波",
+      "value": 8
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710272220.png",
+        "name": "伽古拉斯 伽古拉",
+        "localIcon": "images/skills/2023062710272220.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710272284.png",
+        "name": "伽古拉斯 伽古拉",
+        "localIcon": "images/skills/2023062710272284.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710272218.png",
+        "name": "伽古拉斯 伽古拉",
+        "localIcon": "images/skills/2023062710272218.png"
+      }
+    ],
+    "id": "U3-037",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-037.png"
+    }
+  },
+  {
+    "cardNum": "U3-038",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710253582.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "雷古洛思奥特曼",
+    "hp": 4,
+    "attack": 7,
+    "speed": 6,
+    "attribute": {
+      "name": "雷古洛思奥特曼",
+      "icon": "/uploadfile/upload/2023062710253574.png",
+      "localIcon": "images/attributes/2023062710253574.png"
+    },
+    "specialMove": {
+      "name": "白虎赤龙弹",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710253538.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062710253538.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710253549.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062710253549.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710253557.png",
+        "name": "雷古洛思奥特曼",
+        "localIcon": "images/skills/2023062710253557.png"
+      }
+    ],
+    "id": "U3-038",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-038.png"
+    }
+  },
+  {
+    "cardNum": "U3-039",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710225596.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "迪迦奥特曼",
+    "hp": 5,
+    "attack": 4,
+    "speed": 4,
+    "attribute": {
+      "name": "迪迦奥特曼",
+      "icon": "/uploadfile/upload/2023062710225576.png",
+      "localIcon": "images/attributes/2023062710225576.png"
+    },
+    "specialMove": {
+      "name": "哉佩利敖光线",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712371314.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023062712371314.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710225517.png",
+        "name": "迪迦奥特曼"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710225548.png",
+        "name": "迪迦奥特曼",
+        "localIcon": "images/skills/2023062710225548.png"
+      }
+    ],
+    "id": "U3-039",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-039.png"
+    }
+  },
+  {
+    "cardNum": "U3-040",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710212773.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "戴拿奥特曼",
+    "hp": 5,
+    "attack": 4,
+    "speed": 5,
+    "attribute": {
+      "name": "戴拿奥特曼",
+      "icon": "/uploadfile/upload/2023062710212756.png",
+      "localIcon": "images/attributes/2023062710212756.png"
+    },
+    "specialMove": {
+      "name": "索尔捷特光线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710212786.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023062710212786.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710212793.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023062710212793.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710212742.png",
+        "name": "戴拿奥特曼",
+        "localIcon": "images/skills/2023062710212742.png"
+      }
+    ],
+    "id": "U3-040",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-040.png"
+    }
+  },
+  {
+    "cardNum": "U3-041",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710192044.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "盖亚奥特曼（V2）",
+    "hp": 7,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "盖亚奥特曼（V2）",
+      "icon": "/uploadfile/upload/2023062710192061.png",
+      "localIcon": "images/attributes/2023062710192061.png"
+    },
+    "specialMove": {
+      "name": "量子流线",
+      "value": 4
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710192038.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023062710192038.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710192060.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023062710192060.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710192095.png",
+        "name": "盖亚奥特曼（V2）",
+        "localIcon": "images/skills/2023062710192095.png"
+      }
+    ],
+    "id": "U3-041",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-041.png"
+    }
+  },
+  {
+    "cardNum": "U3-042",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710233950.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "阿古茹奥特曼（V2）",
+    "hp": 4,
+    "attack": 4,
+    "speed": 6,
+    "attribute": {
+      "name": "阿古茹奥特曼（V2）",
+      "icon": "/uploadfile/upload/2023062710233975.png",
+      "localIcon": "images/attributes/2023062710233975.png"
+    },
+    "specialMove": {
+      "name": "阿古茹流线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710180989.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023062710180989.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710180944.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023062710180944.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710180930.png",
+        "name": "阿古茹奥特曼（V2）",
+        "localIcon": "images/skills/2023062710180930.png"
+      }
+    ],
+    "id": "U3-042",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-042.png"
+    }
+  },
+  {
+    "cardNum": "U3-043",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710162369.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "高斯奥特曼 未来形态",
+    "hp": 3,
+    "attack": 6,
+    "speed": 4,
+    "attribute": {
+      "name": "高斯奥特曼 未来形态",
+      "icon": "/uploadfile/upload/2023062710162395.png",
+      "localIcon": "images/attributes/2023062710162395.png"
+    },
+    "specialMove": {
+      "name": "高斯重击",
+      "value": 7
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710162352.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023062710162352.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710162370.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023062710162370.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710162315.png",
+        "name": "高斯奥特曼 未来形态",
+        "localIcon": "images/skills/2023062710162315.png"
+      }
+    ],
+    "id": "U3-043",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-043.png"
+    }
+  },
+  {
+    "cardNum": "U3-044",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710145788.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "杰斯提斯奥特曼",
+    "hp": 4,
+    "attack": 7,
+    "speed": 4,
+    "attribute": {
+      "name": "杰斯提斯奥特曼",
+      "icon": "/uploadfile/upload/2023062712374270.png",
+      "localIcon": "images/attributes/2023062712374270.png"
+    },
+    "specialMove": {
+      "name": "比库托流姆光线",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710145715.png",
+        "name": "杰斯提斯奥特曼",
+        "localIcon": "images/skills/2023062710145715.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710145761.png",
+        "name": "杰斯提斯奥特曼"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710145774.png",
+        "name": "杰斯提斯奥特曼",
+        "localIcon": "images/skills/2023062710145774.png"
+      }
+    ],
+    "id": "U3-044",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-044.png"
+    }
+  },
+  {
+    "cardNum": "U3-045",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710120187.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "奈克赛斯奥特曼 成年形态",
+    "hp": 4,
+    "attack": 6,
+    "speed": 5,
+    "attribute": {
+      "name": "奈克赛斯奥特曼 成年形态",
+      "icon": "/uploadfile/upload/2023062710120128.png",
+      "localIcon": "images/attributes/2023062710120128.png"
+    },
+    "specialMove": {
+      "name": "层叠风暴",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710120135.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023062710120135.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710120148.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023062710120148.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710120188.png",
+        "name": "奈克赛斯奥特曼 成年形态",
+        "localIcon": "images/skills/2023062710120188.png"
+      }
+    ],
+    "id": "U3-045",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-045.png"
+    }
+  },
+  {
+    "cardNum": "U3-046",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710092293.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "麦克斯奥特曼",
+    "hp": 3,
+    "attack": 6,
+    "speed": 6,
+    "attribute": {
+      "name": "麦克斯奥特曼",
+      "icon": "/uploadfile/upload/2023062710092291.png",
+      "localIcon": "images/attributes/2023062710092291.png"
+    },
+    "specialMove": {
+      "name": "银河加农",
+      "value": 5
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710092253.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062710092253.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710092284.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062710092284.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710092267.png",
+        "name": "麦克斯奥特曼",
+        "localIcon": "images/skills/2023062710092267.png"
+      }
+    ],
+    "id": "U3-046",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-046.png"
+    }
+  },
+  {
+    "cardNum": "U3-047",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062712363921.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "梦比优斯奥特曼",
+    "hp": 5,
+    "attack": 5,
+    "speed": 4,
+    "attribute": {
+      "name": "梦比优斯奥特曼",
+      "icon": "/uploadfile/upload/2023062710071554.png",
+      "localIcon": "images/attributes/2023062710071554.png"
+    },
+    "specialMove": {
+      "name": "梦比姆射线",
+      "value": 6
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062712381737.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023062712381737.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710071521.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023062710071521.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710071512.png",
+        "name": "梦比优斯奥特曼",
+        "localIcon": "images/skills/2023062710071512.png"
+      }
+    ],
+    "id": "U3-047",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-047.png"
+    }
+  },
+  {
+    "cardNum": "U3-048",
+    "rarity": "普通（N）",
+    "cardImg": "/uploadfile/upload/2023062710043830.png",
+    "nameJa": "ウルトラマンゼット オリジナル",
+    "cardName": "希卡利奥特曼",
+    "hp": 4,
+    "attack": 6,
+    "speed": 7,
+    "attribute": {
+      "name": "希卡利奥特曼",
+      "icon": "/uploadfile/upload/2023062710043870.png",
+      "localIcon": "images/attributes/2023062710043870.png"
+    },
+    "specialMove": {
+      "name": "骑士射线",
+      "value": 3
+    },
+    "skills": [
+      {
+        "type": "爆发类型",
+        "icon": "/uploadfile/upload/2023062710043882.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023062710043882.png"
+      },
+      {
+        "type": "搭档",
+        "icon": "/uploadfile/upload/2023062710043865.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023062710043865.png"
+      },
+      {
+        "type": "卡片技能",
+        "icon": "/uploadfile/upload/2023062710043811.png",
+        "name": "希卡利奥特曼",
+        "localIcon": "images/skills/2023062710043811.png"
+      }
+    ],
+    "id": "U3-048",
+    "set": {
+      "id": "36",
+      "name": "耀闪新光 第三弹",
+      "series": "耀闪新光"
+    },
+    "images": {
+      "card": "images/cards/U3-048.png"
+    }
+  }
+]
